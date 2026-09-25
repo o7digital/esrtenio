@@ -1,0 +1,31 @@
+---
+import AudienceSelector from '../components/AudienceSelector';
+import Contact from '../components/Contact.astro';
+import Expertise from '../components/Expertise';
+import FirmIntro from '../components/FirmIntro.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import Heritage from '../components/Heritage.astro';
+import Hero from '../components/Hero.astro';
+import Method from '../components/Method.astro';
+import TrustStrip from '../components/TrustStrip.astro';
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Estenio — Certeza para lo que viene."
+  description="Una nueva experiencia para Corporativo Estenio. Seguridad Social, auditoría, defensa y pensiones."
+>
+  <Header />
+  <main>
+    <Hero />
+    <TrustStrip />
+    <FirmIntro />
+    <Expertise client:load />
+    <Heritage />
+    <AudienceSelector client:load />
+    <Method />
+    <Contact />
+  </main>
+  <Footer />
+</BaseLayout>
