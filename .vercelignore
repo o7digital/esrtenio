@@ -1,0 +1,10 @@
+.git
+.astro
+.vercel
+node_modules
+dist
+docs
+reference
+tests
+test-results
+playwright-report
