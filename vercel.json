@@ -1,5 +1,6 @@
 {
   "redirects": [
+    { "source": "/pension/", "destination": "/gestor-de-pensiones/", "statusCode": 301 },
     { "source": "/pension/:path*", "destination": "/gestor-de-pensiones/", "statusCode": 301 }
   ],
   "headers": [

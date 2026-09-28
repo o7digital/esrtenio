@@ -17,7 +17,7 @@ for (const route of routes) {
 
     for (const viewport of viewports) {
       await page.setViewportSize(viewport);
-      await page.goto(route);
+      await page.goto(route, { waitUntil: 'domcontentloaded' });
       await expect(page.locator('meta[name="robots"]')).toHaveAttribute('content', 'noindex,nofollow');
       await expect(page.locator('header')).toBeVisible();
       await page.locator('body').evaluate(async () => {
