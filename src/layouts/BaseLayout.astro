@@ -3,10 +3,14 @@ import '../styles/global.css';
 
 interface Props {
   title: string;
-  description: string;
+  description?: string;
+  meta?: Array<Record<string, string | undefined>>;
 }
 
-const { title, description } = Astro.props;
+const { title, description, meta = [] } = Astro.props;
+const sourceMetadata = meta.filter((entry) => entry.content && (entry.property || entry.name) && !['robots', 'viewport', 'description', 'generator'].includes(entry.name ?? ''));
+const sourceDescription = meta.find((entry) => entry.name === 'description')?.content;
+const canonical = meta.find((entry) => entry.rel === 'canonical')?.href;
 ---
 
 <!doctype html>
@@ -15,8 +19,10 @@ const { title, description } = Astro.props;
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <meta name="robots" content="noindex,nofollow" />
-    <meta name="description" content={description} />
-    <link rel="icon" href="/assets/original/logo-white.png" />
+    {(description || sourceDescription) && <meta name="description" content={sourceDescription || description} />}
+    {sourceMetadata.map((entry) => <meta name={entry.name} property={entry.property} content={entry.content} />)}
+    {canonical && <link rel="canonical" href={canonical} />}
+    <link rel="icon" href="/assets/original/icono-estenio.png" />
     <title>{title}</title>
   </head>
   <body>

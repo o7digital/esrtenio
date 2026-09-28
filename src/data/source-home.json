@@ -1,0 +1,77 @@
+{
+  "title": "Estenio Corporativo",
+  "meta": [
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1"
+    },
+    {
+      "name": "robots",
+      "content": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+    },
+    {
+      "name": "description",
+      "content": "Despacho líder en México, especializado en materia de Seguridad Social. Asesoría experta y estratégica para planear tu retiro, maximizar tu pensión y recuperar fondos de AFORE"
+    },
+    {
+      "rel": "canonical",
+      "href": "https://estenio.com.mx/"
+    },
+    {
+      "property": "og:locale",
+      "content": "es_ES"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:title",
+      "content": "Estenio Corporativo"
+    },
+    {
+      "property": "og:description",
+      "content": "Despacho líder en México, especializado en materia de Seguridad Social. Asesoría experta y estratégica para planear tu retiro, maximizar tu pensión y recuperar fondos de AFORE"
+    },
+    {
+      "property": "og:url",
+      "content": "https://estenio.com.mx/"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Estenio Corporativo"
+    },
+    {
+      "property": "article:publisher",
+      "content": "https://www.facebook.com/estenioMX/"
+    },
+    {
+      "property": "article:modified_time",
+      "content": "2026-02-05T22:09:47+00:00"
+    },
+    {
+      "property": "og:image",
+      "content": "https://estenio.com.mx/wp-content/uploads/2025/08/nosotrosLogo.svg"
+    },
+    {
+      "name": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "name": "generator",
+      "content": "WordPress 7.1.2"
+    },
+    {
+      "name": "generator",
+      "content": "Site Kit by Google 1.176.0"
+    },
+    {
+      "name": "generator",
+      "content": "Elementor 4.3.2; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap"
+    },
+    {
+      "name": "msapplication-TileImage",
+      "content": "https://estenio.com.mx/wp-content/uploads/2025/04/icono-estenio.png"
+    }
+  ]
+}

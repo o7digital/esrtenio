@@ -1,0 +1,236 @@
+{
+  "baseURL": "http://127.0.0.1:4323",
+  "viewports": [
+    {
+      "route": "/",
+      "width": 390,
+      "overflow": false,
+      "brokenImages": [],
+      "headingFont": "\"Albert Sans\", Arial, sans-serif",
+      "title": "Estenio Corporativo"
+    },
+    {
+      "route": "/",
+      "width": 768,
+      "overflow": false,
+      "brokenImages": [],
+      "headingFont": "\"Albert Sans\", Arial, sans-serif",
+      "title": "Estenio Corporativo"
+    },
+    {
+      "route": "/",
+      "width": 1440,
+      "overflow": false,
+      "brokenImages": [],
+      "headingFont": "\"Albert Sans\", Arial, sans-serif",
+      "title": "Estenio Corporativo"
+    },
+    {
+      "route": "/",
+      "width": 1920,
+      "overflow": false,
+      "brokenImages": [],
+      "headingFont": "\"Albert Sans\", Arial, sans-serif",
+      "title": "Estenio Corporativo"
+    },
+    {
+      "route": "/nosotros/",
+      "width": 390,
+      "overflow": false,
+      "brokenImages": [],
+      "headingFont": "\"Albert Sans\", Arial, sans-serif",
+      "title": "Nosotros - Estenio Corporativo"
+    },
+    {
+      "route": "/nosotros/",
+      "width": 768,
+      "overflow": false,
+      "brokenImages": [],
+      "headingFont": "\"Albert Sans\", Arial, sans-serif",
+      "title": "Nosotros - Estenio Corporativo"
+    },
+    {
+      "route": "/nosotros/",
+      "width": 1440,
+      "overflow": false,
+      "brokenImages": [],
+      "headingFont": "\"Albert Sans\", Arial, sans-serif",
+      "title": "Nosotros - Estenio Corporativo"
+    },
+    {
+      "route": "/nosotros/",
+      "width": 1920,
+      "overflow": false,
+      "brokenImages": [],
+      "headingFont": "\"Albert Sans\", Arial, sans-serif",
+      "title": "Nosotros - Estenio Corporativo"
+    },
+    {
+      "route": "/auditoria/",
+      "width": 390,
+      "overflow": false,
+      "brokenImages": [],
+      "headingFont": "\"Albert Sans\", Arial, sans-serif",
+      "title": "Auditoría - Estenio Corporativo"
+    },
+    {
+      "route": "/auditoria/",
+      "width": 768,
+      "overflow": false,
+      "brokenImages": [],
+      "headingFont": "\"Albert Sans\", Arial, sans-serif",
+      "title": "Auditoría - Estenio Corporativo"
+    },
+    {
+      "route": "/auditoria/",
+      "width": 1440,
+      "overflow": false,
+      "brokenImages": [],
+      "headingFont": "\"Albert Sans\", Arial, sans-serif",
+      "title": "Auditoría - Estenio Corporativo"
+    },
+    {
+      "route": "/auditoria/",
+      "width": 1920,
+      "overflow": false,
+      "brokenImages": [],
+      "headingFont": "\"Albert Sans\", Arial, sans-serif",
+      "title": "Auditoría - Estenio Corporativo"
+    },
+    {
+      "route": "/legal/",
+      "width": 390,
+      "overflow": false,
+      "brokenImages": [],
+      "headingFont": "\"Albert Sans\", Arial, sans-serif",
+      "title": "Representación legal - Estenio Corporativo"
+    },
+    {
+      "route": "/legal/",
+      "width": 768,
+      "overflow": false,
+      "brokenImages": [],
+      "headingFont": "\"Albert Sans\", Arial, sans-serif",
+      "title": "Representación legal - Estenio Corporativo"
+    },
+    {
+      "route": "/legal/",
+      "width": 1440,
+      "overflow": false,
+      "brokenImages": [],
+      "headingFont": "\"Albert Sans\", Arial, sans-serif",
+      "title": "Representación legal - Estenio Corporativo"
+    },
+    {
+      "route": "/legal/",
+      "width": 1920,
+      "overflow": false,
+      "brokenImages": [],
+      "headingFont": "\"Albert Sans\", Arial, sans-serif",
+      "title": "Representación legal - Estenio Corporativo"
+    },
+    {
+      "route": "/asesoria-infonavit/",
+      "width": 390,
+      "overflow": false,
+      "brokenImages": [],
+      "headingFont": "\"Albert Sans\", Arial, sans-serif",
+      "title": "asesoria-infonavit - Estenio Corporativo"
+    },
+    {
+      "route": "/asesoria-infonavit/",
+      "width": 768,
+      "overflow": false,
+      "brokenImages": [],
+      "headingFont": "\"Albert Sans\", Arial, sans-serif",
+      "title": "asesoria-infonavit - Estenio Corporativo"
+    },
+    {
+      "route": "/asesoria-infonavit/",
+      "width": 1440,
+      "overflow": false,
+      "brokenImages": [],
+      "headingFont": "\"Albert Sans\", Arial, sans-serif",
+      "title": "asesoria-infonavit - Estenio Corporativo"
+    },
+    {
+      "route": "/asesoria-infonavit/",
+      "width": 1920,
+      "overflow": false,
+      "brokenImages": [],
+      "headingFont": "\"Albert Sans\", Arial, sans-serif",
+      "title": "asesoria-infonavit - Estenio Corporativo"
+    },
+    {
+      "route": "/gestor-de-pensiones/",
+      "width": 390,
+      "overflow": false,
+      "brokenImages": [],
+      "headingFont": "\"Albert Sans\", Arial, sans-serif",
+      "title": "Pensión - Estenio Corporativo"
+    },
+    {
+      "route": "/gestor-de-pensiones/",
+      "width": 768,
+      "overflow": false,
+      "brokenImages": [],
+      "headingFont": "\"Albert Sans\", Arial, sans-serif",
+      "title": "Pensión - Estenio Corporativo"
+    },
+    {
+      "route": "/gestor-de-pensiones/",
+      "width": 1440,
+      "overflow": false,
+      "brokenImages": [],
+      "headingFont": "\"Albert Sans\", Arial, sans-serif",
+      "title": "Pensión - Estenio Corporativo"
+    },
+    {
+      "route": "/gestor-de-pensiones/",
+      "width": 1920,
+      "overflow": false,
+      "brokenImages": [],
+      "headingFont": "\"Albert Sans\", Arial, sans-serif",
+      "title": "Pensión - Estenio Corporativo"
+    }
+  ],
+  "content": [
+    {
+      "route": "/",
+      "checkedFragments": 30,
+      "missing": []
+    },
+    {
+      "route": "/nosotros/",
+      "checkedFragments": 57,
+      "missing": []
+    },
+    {
+      "route": "/auditoria/",
+      "checkedFragments": 48,
+      "missing": []
+    },
+    {
+      "route": "/legal/",
+      "checkedFragments": 40,
+      "missing": []
+    },
+    {
+      "route": "/asesoria-infonavit/",
+      "checkedFragments": 34,
+      "missing": []
+    },
+    {
+      "route": "/gestor-de-pensiones/",
+      "checkedFragments": 59,
+      "missing": []
+    }
+  ],
+  "failures": [],
+  "reducedMotion": {
+    "posterVisible": true,
+    "videoHidden": true,
+    "videoSrc": null,
+    "videoRequests": []
+  }
+}

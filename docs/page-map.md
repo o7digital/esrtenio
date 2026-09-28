@@ -1,15 +1,16 @@
 # Inventaire de migration Estenio
 
-Inventaire réalisé le 27 septembre 2026 depuis la navigation et les liens internes accessibles sur `https://estenio.com.mx/`. Le sitemap et `robots.txt` retournaient une réponse 406 depuis l’environnement d’audit ; ils restent donc à confirmer avec l’accès d’administration WordPress.
+Inventaire réalisé le 27 septembre 2026 depuis la navigation, les liens internes et le sitemap sur `https://estenio.com.mx/`. Après des réponses 406 initiales, `robots.txt`, `sitemap_index.xml` et `page-sitemap.xml` ont été lus avec succès : le sitemap liste exactement les six pages ci-dessous. L’inventaire détaillé des liens et métadonnées figure dans `audit/source-inventory.json`.
 
 | URL source | URL Astro | Contenu migré | Métadonnées | État |
 | --- | --- | --- | --- | --- |
-| `/` | `/` | Accueil, quatre services, deux services de pension, Nosotros, logos clients, contact | `Estenio Corporativo`, description source reprise | Migré |
-| `/nosotros/` | `/nosotros/` | Histoire, valeurs, 16 membres de l’équipe, phrase de clôture, contact | Titre source et description issue du contenu | Migré |
-| `/auditoria/` | `/auditoria/` | Service principal, quatre blocs détaillés et 18 services complémentaires | Titre source et description source reprise | Migré |
+| `/` | `/` | Vidéo originale, quatre services et leurs photos, deux services de pension, Nosotros et sa photo, dix logos clients, contact | Titre, description, Open Graph et canonical source | Migré |
+| `/nosotros/` | `/nosotros/` | Histoire et ses deux photos, huit valeurs avec leurs icônes, photo d’équipe et 16 portraits, phrase de clôture, contact | Titre, Open Graph et canonical source ; description SEO absente du source | Migré |
+| `/auditoria/` | `/auditoria/` | Présentation, cinq onglets complets et 18 cartes de services avec leurs médias et contenus recto/verso | Titre, Open Graph et canonical source ; description SEO absente du source | Migré |
 | `/legal/` | `/legal/` | Présentation, cinq blocs détaillés et 12 services complémentaires | Titre source et description source reprise | Migré |
-| `/asesoria-infonavit/` | `/asesoria-infonavit/` | Présentation, méthode en cinq étapes, listes de services et lien webinar | Titre source et description source reprise | Migré |
-| `/gestor-de-pensiones/` | `/gestor-de-pensiones/` | Services entreprise/personnel, trois témoignages, FAQ complète | Titre source et description source reprise | Migré |
+| `/asesoria-infonavit/` | `/asesoria-infonavit/` | Présentation et image, méthode en cinq étapes, webinar, quatre accordéons et image des services | Titre, Open Graph et canonical source ; description SEO absente du source | Migré |
+| `/gestor-de-pensiones/` | `/gestor-de-pensiones/` | Trois onglets, trois blocs illustrés, webinar, trois témoignages et leurs portraits, 13 questions/réponses complètes | Titre, description, Open Graph et canonical source | Migré |
+| `/pension/` | `/gestor-de-pensiones/` | Lien présent dans trois boutons de l’accueil mais retournant 404 sur WordPress | Redirection HTTP 301 Vercel, alias Astro | Réparé |
 | `/#footer` | `/#footer` | Adresse, email, téléphone et carte | N/A | Conservé comme ancre |
 
 ## Fonctionnalités et intégrations
@@ -24,7 +25,14 @@ Inventaire réalisé le 27 septembre 2026 depuis la navigation et les liens inte
 
 ## Points restant à confirmer
 
-- Le sitemap WordPress et toute URL non liée depuis la navigation n’ont pas pu être lus à cause de la réponse HTTP 406 ; une exportation XML ou un accès WordPress permettra de fermer cet écart.
+- Les six routes publiques du sitemap sont migrées ; aucune page supplémentaire ni mention légale distincte n’est liée dans l’inventaire public.
 - Le formulaire, WhatsApp/Joinchat et les analytics ne sont pas connectés dans cette prévisualisation, conformément au brief.
 - Le site source comporte des métadonnées `index, follow`; Astro conserve volontairement `noindex,nofollow` tant qu’un lancement en production n’est pas autorisé.
-- Les redirections 301 ne sont pas nécessaires pour les six routes inventoriées, car les chemins sont conservés. Toute URL supplémentaire découverte via le sitemap devra être ajoutée avant publication.
+- Les chemins des six pages sont conservés. Seul le lien source cassé `/pension/` est redirigé vers `/gestor-de-pensiones/` ; les destinations des boutons source sont laissées intactes dans le HTML.
+
+## Validation de la correction
+
+- `audit/visual-report.json` : 24 contrôles responsive, comparaison exacte des fragments source (titres, paragraphes, cartes recto/verso, onglets, accordéons, témoignages et boutons) et contrôle du mode statique sans téléchargement MP4.
+- Captures source et correction aux largeurs 390, 768, 1440 et 1920 px ; inspection visuelle du hero, de Nosotros et des clients. Les captures de livraison sont accessibles sur `/review/`.
+- Les dix fichiers de logos clients sont complets et conservent leurs couleurs. Le symbole et le nom du SVG Nosotros, ainsi que les logos du header/footer, sont affichés sans recadrage.
+- Le formulaire reste à connecter au backend/CRM/email. WhatsApp et analytics restent volontairement désactivés sur la prévisualisation. Aucun script HubSpot n’a été trouvé dans les pages publiques auditées ; confirmer une éventuelle intégration côté WordPress avant connexion.

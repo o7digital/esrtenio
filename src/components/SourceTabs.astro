@@ -1,0 +1,36 @@
+---
+interface Tab { id: string; label: string; title: string; html: string; image?: { src: string; alt: string } | null; }
+interface Props { tabs: Tab[]; }
+const { tabs } = Astro.props;
+---
+<div class="source-tabs">
+  <div class="source-tablist" role="tablist" aria-label="Servicios">
+    {tabs.map((tab, index) => <button type="button" role="tab" id={tab.id} aria-selected={index === 0 ? 'true' : 'false'} aria-controls={`panel-${tab.id}`} tabindex={index === 0 ? 0 : -1}>{tab.label}</button>)}
+  </div>
+  {tabs.map((tab) => <section class="source-panel" role="tabpanel" id={`panel-${tab.id}`} aria-labelledby={tab.id} tabindex="0">
+    <div><h2>{tab.title}</h2><div class="rich-copy" set:html={tab.html} /></div>
+    {tab.image && <img src={tab.image.src} alt={tab.image.alt} loading="lazy" />}
+  </section>)}
+</div>
+<script>
+  document.querySelectorAll<HTMLElement>('.source-tabs').forEach((element) => {
+    const controls = [...element.querySelectorAll<HTMLButtonElement>('[role="tab"]')];
+    const panels = [...element.querySelectorAll<HTMLElement>('[role="tabpanel"]')];
+    const select = (index: number, focus = false) => {
+      controls.forEach((control, current) => { control.setAttribute('aria-selected', String(current === index)); control.tabIndex = current === index ? 0 : -1; });
+      panels.forEach((panel, current) => { panel.hidden = current !== index; });
+      if (focus) controls[index]?.focus();
+    };
+    controls.forEach((control, index) => {
+      control.addEventListener('click', () => select(index));
+      control.addEventListener('keydown', (event) => {
+        const key = event.key;
+        if (!['ArrowRight', 'ArrowLeft', 'ArrowUp', 'ArrowDown', 'Home', 'End'].includes(key)) return;
+        event.preventDefault();
+        const next = key === 'Home' ? 0 : key === 'End' ? controls.length - 1 : (index + (['ArrowRight', 'ArrowDown'].includes(key) ? 1 : -1) + controls.length) % controls.length;
+        select(next, true);
+      });
+    });
+    select(0);
+  });
+</script>

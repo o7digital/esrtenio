@@ -1,18 +1,24 @@
+---
+interface Props { extra?: string; }
+const { extra } = Astro.props;
+---
+
 <section id="contacto" class="contact-section">
   <div class="wrap contact-grid">
     <div>
-      <p class="eyebrow">ENCUENTRA LA SOLUCIÓN</p>
-      <h2>CONTÁCTANOS</h2>
+      <h2>ENCUENTRA LA SOLUCIÓN</h2>
+      {extra && <p>{extra}</p>}
       <p>Por favor déjanos un mensaje y uno de nuestros representantes se pondrá en contacto contigo lo antes posible.</p>
       <p class="preview-note">Formulario de previsualización: no se envían ni guardan datos y no se muestra confirmación de envío.</p>
     </div>
     <form id="contact-form" novalidate>
+      <h3 class="full">CONTÁCTANOS</h3>
       <label>Nombre*<input name="name" required autocomplete="name" /></label>
       <label>Email*<input name="email" required type="email" autocomplete="email" /></label>
       <label>Teléfono<input name="phone" type="tel" autocomplete="tel" /></label>
       <label>Compañía<input name="company" autocomplete="organization" /></label>
-      <label class="full"><span class="sr-only">Mensaje</span><textarea name="message" aria-label="Mensaje" required></textarea></label>
-      <button class="button full" type="submit">Enviar</button>
+      <label class="full"><span class="sr-only">Mensaje*</span><textarea name="message" aria-label="Mensaje*" placeholder="Mensaje*" required></textarea></label>
+      <button class="button full" type="button" data-preview-submit>Enviar</button>
       <p class="form-status full" role="status" aria-live="polite"></p>
     </form>
   </div>
@@ -23,9 +29,13 @@
   const status = document.querySelector<HTMLElement>('.form-status');
   form?.addEventListener('submit', (event) => {
     event.preventDefault();
+    if (!form.reportValidity()) return;
     if (form.checkValidity()) {
       if (status) status.textContent = 'Previsualización únicamente: no se ha enviado ninguna solicitud.';
       form.reset();
     }
   });
+  // Without JavaScript the button must remain inert, never submit personal data.
+  const submit = form?.querySelector<HTMLButtonElement>('[data-preview-submit]');
+  if (submit) submit.type = 'submit';
 </script>

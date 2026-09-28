@@ -1,0 +1,2474 @@
+[
+  {
+    "pathname": "/",
+    "title": "Estenio Corporativo",
+    "meta": [
+      {
+        "name": "viewport",
+        "content": "width=device-width, initial-scale=1"
+      },
+      {
+        "name": "robots",
+        "content": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "description",
+        "content": "Despacho líder en México, especializado en materia de Seguridad Social. Asesoría experta y estratégica para planear tu retiro, maximizar tu pensión y recuperar fondos de AFORE"
+      },
+      {
+        "rel": "canonical",
+        "href": "https://estenio.com.mx/"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_ES"
+      },
+      {
+        "property": "og:type",
+        "content": "website"
+      },
+      {
+        "property": "og:title",
+        "content": "Estenio Corporativo"
+      },
+      {
+        "property": "og:description",
+        "content": "Despacho líder en México, especializado en materia de Seguridad Social. Asesoría experta y estratégica para planear tu retiro, maximizar tu pensión y recuperar fondos de AFORE"
+      },
+      {
+        "property": "og:url",
+        "content": "https://estenio.com.mx/"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Estenio Corporativo"
+      },
+      {
+        "property": "article:publisher",
+        "content": "https://www.facebook.com/estenioMX/"
+      },
+      {
+        "property": "article:modified_time",
+        "content": "2026-02-05T22:09:47+00:00"
+      },
+      {
+        "property": "og:image",
+        "content": "https://estenio.com.mx/wp-content/uploads/2025/08/nosotrosLogo.svg"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "generator",
+        "content": "WordPress 7.1.2"
+      },
+      {
+        "name": "generator",
+        "content": "Site Kit by Google 1.176.0"
+      },
+      {
+        "name": "generator",
+        "content": "Elementor 4.3.2; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap"
+      },
+      {
+        "name": "msapplication-TileImage",
+        "content": "https://estenio.com.mx/wp-content/uploads/2025/04/icono-estenio.png"
+      }
+    ],
+    "links": [
+      {
+        "text": "Ir al contenido",
+        "href": "#content"
+      },
+      {
+        "text": "",
+        "href": "https://estenio.com.mx"
+      },
+      {
+        "text": "INICIO",
+        "href": "https://estenio.com.mx/"
+      },
+      {
+        "text": "NOSOTROS",
+        "href": "https://estenio.com.mx/nosotros/"
+      },
+      {
+        "text": "Auditoría",
+        "href": "https://estenio.com.mx/auditoria/"
+      },
+      {
+        "text": "Legal",
+        "href": "https://estenio.com.mx/legal/"
+      },
+      {
+        "text": "Asesoría INFONAVIT",
+        "href": "https://estenio.com.mx/asesoria-infonavit/"
+      },
+      {
+        "text": "Pensión",
+        "href": "https://estenio.com.mx/gestor-de-pensiones/"
+      },
+      {
+        "text": "PENSIÓN",
+        "href": "https://estenio.com.mx/gestor-de-pensiones/"
+      },
+      {
+        "text": "CONTACTO",
+        "href": "/#footer"
+      },
+      {
+        "text": "INICIO",
+        "href": "https://estenio.com.mx/"
+      },
+      {
+        "text": "NOSOTROS",
+        "href": "https://estenio.com.mx/nosotros/"
+      },
+      {
+        "text": "Auditoría",
+        "href": "https://estenio.com.mx/auditoria/"
+      },
+      {
+        "text": "Legal",
+        "href": "https://estenio.com.mx/legal/"
+      },
+      {
+        "text": "Asesoría INFONAVIT",
+        "href": "https://estenio.com.mx/asesoria-infonavit/"
+      },
+      {
+        "text": "Pensión",
+        "href": "https://estenio.com.mx/gestor-de-pensiones/"
+      },
+      {
+        "text": "PENSIÓN",
+        "href": "https://estenio.com.mx/gestor-de-pensiones/"
+      },
+      {
+        "text": "CONTACTO",
+        "href": "/#footer"
+      },
+      {
+        "text": "",
+        "href": "https://estenio.com.mx"
+      },
+      {
+        "text": "INICIO",
+        "href": "https://estenio.com.mx/"
+      },
+      {
+        "text": "NOSOTROS",
+        "href": "https://estenio.com.mx/nosotros/"
+      },
+      {
+        "text": "Auditoría",
+        "href": "https://estenio.com.mx/auditoria/"
+      },
+      {
+        "text": "Legal",
+        "href": "https://estenio.com.mx/legal/"
+      },
+      {
+        "text": "Asesoría INFONAVIT",
+        "href": "https://estenio.com.mx/asesoria-infonavit/"
+      },
+      {
+        "text": "Pensión",
+        "href": "https://estenio.com.mx/gestor-de-pensiones/"
+      },
+      {
+        "text": "PENSIÓN",
+        "href": "https://estenio.com.mx/gestor-de-pensiones/"
+      },
+      {
+        "text": "CONTACTO",
+        "href": "/#footer"
+      },
+      {
+        "text": "INICIO",
+        "href": "https://estenio.com.mx/"
+      },
+      {
+        "text": "NOSOTROS",
+        "href": "https://estenio.com.mx/nosotros/"
+      },
+      {
+        "text": "Auditoría",
+        "href": "https://estenio.com.mx/auditoria/"
+      },
+      {
+        "text": "Legal",
+        "href": "https://estenio.com.mx/legal/"
+      },
+      {
+        "text": "Asesoría INFONAVIT",
+        "href": "https://estenio.com.mx/asesoria-infonavit/"
+      },
+      {
+        "text": "Pensión",
+        "href": "https://estenio.com.mx/gestor-de-pensiones/"
+      },
+      {
+        "text": "PENSIÓN",
+        "href": "https://estenio.com.mx/gestor-de-pensiones/"
+      },
+      {
+        "text": "CONTACTO",
+        "href": "/#footer"
+      },
+      {
+        "text": "Más información…",
+        "href": "https://estenio.com.mx/auditoria/"
+      },
+      {
+        "text": "Más información…",
+        "href": "https://estenio.com.mx/pension/"
+      },
+      {
+        "text": "Más información…",
+        "href": "https://estenio.com.mx/asesoria-infonavit/"
+      },
+      {
+        "text": "Más información…",
+        "href": "https://estenio.com.mx/legal/"
+      },
+      {
+        "text": "Más información…",
+        "href": "https://estenio.com.mx/pension/"
+      },
+      {
+        "text": "Más información…",
+        "href": "https://estenio.com.mx/pension/"
+      },
+      {
+        "text": "Calle Cracovia 72, San Ángel, Álvaro Obregón, 01000 Ciudad de México, CDMX",
+        "href": "https://maps.app.goo.gl/UGFv7zfEMZZSfXzS6"
+      },
+      {
+        "text": "info@estenio.com.mx",
+        "href": "mailto:info@estenio.com.mx"
+      },
+      {
+        "text": "+52 (55) 5682 0573",
+        "href": "tel:5556820573"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/estenioMX/"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/esteniomx/"
+      },
+      {
+        "text": "",
+        "href": "https://www.linkedin.com/company/corporativo-estenio/posts/?feedView=all"
+      }
+    ],
+    "widgets": [
+      {
+        "id": "56e941a",
+        "type": "heading.default"
+      },
+      {
+        "id": "da1be27",
+        "type": "heading.default"
+      },
+      {
+        "id": "46e543a",
+        "type": "heading.default"
+      },
+      {
+        "id": "73f0a25",
+        "type": "heading.default"
+      },
+      {
+        "id": "9685dce",
+        "type": "heading.default"
+      },
+      {
+        "id": "05f538d",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "5ae7881",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "8719547",
+        "type": "heading.default"
+      },
+      {
+        "id": "bb9be3a",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "62b031e",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "c488d53",
+        "type": "heading.default"
+      },
+      {
+        "id": "44e5982",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "8f26d0e",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "0b78ba6",
+        "type": "heading.default"
+      },
+      {
+        "id": "0331259",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "3203c86",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "7909729",
+        "type": "spacer.default"
+      },
+      {
+        "id": "ff507ea",
+        "type": "heading.default"
+      },
+      {
+        "id": "e0a339e",
+        "type": "heading.default"
+      },
+      {
+        "id": "bd7c02b",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "e83c469",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "a2b2be5",
+        "type": "heading.default"
+      },
+      {
+        "id": "75f0666",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "7fefd60",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "c63ceb2",
+        "type": "spacer.default"
+      },
+      {
+        "id": "233da36",
+        "type": "heading.default"
+      },
+      {
+        "id": "92bede3",
+        "type": "image.default"
+      },
+      {
+        "id": "68f0357",
+        "type": "nested-carousel.default"
+      },
+      {
+        "id": "2890fee",
+        "type": "heading.default"
+      },
+      {
+        "id": "3c8a4e7",
+        "type": "heading.default"
+      },
+      {
+        "id": "c9114be",
+        "type": "heading.default"
+      },
+      {
+        "id": "2890fee",
+        "type": "heading.default"
+      },
+      {
+        "id": "3c8a4e7",
+        "type": "heading.default"
+      },
+      {
+        "id": "a1998c2",
+        "type": "image.default"
+      },
+      {
+        "id": "8a43ebb",
+        "type": "heading.default"
+      },
+      {
+        "id": "cb800b1",
+        "type": "image.default"
+      },
+      {
+        "id": "a1ce07f",
+        "type": "nested-carousel.default"
+      },
+      {
+        "id": "da63e73",
+        "type": "heading.default"
+      },
+      {
+        "id": "9dbc1e3",
+        "type": "heading.default"
+      },
+      {
+        "id": "1f2b4b5",
+        "type": "heading.default"
+      },
+      {
+        "id": "da63e73",
+        "type": "heading.default"
+      },
+      {
+        "id": "9dbc1e3",
+        "type": "heading.default"
+      },
+      {
+        "id": "817c8c2",
+        "type": "image.default"
+      },
+      {
+        "id": "5ecd26c",
+        "type": "heading.default"
+      },
+      {
+        "id": "c964ee7",
+        "type": "media-carousel.default"
+      },
+      {
+        "id": "61c9024a",
+        "type": "heading.default"
+      },
+      {
+        "id": "d3ff819",
+        "type": "heading.default"
+      },
+      {
+        "id": "1629cbd4",
+        "type": "heading.default"
+      },
+      {
+        "id": "1b1b21c6",
+        "type": "form.default"
+      },
+      {
+        "id": "4b439d4b",
+        "type": "image.default"
+      },
+      {
+        "id": "3d047b15",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "5f541b2c",
+        "type": "icon-list.default"
+      },
+      {
+        "id": "28fa50f6",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "771238e9",
+        "type": "icon-list.default"
+      },
+      {
+        "id": "4e41b50c",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "3c0efe72",
+        "type": "icon-list.default"
+      },
+      {
+        "id": "efbada",
+        "type": "icon.default"
+      },
+      {
+        "id": "6a13aafe",
+        "type": "icon.default"
+      },
+      {
+        "id": "f73a6e2",
+        "type": "icon.default"
+      },
+      {
+        "id": "35dfcafd",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "64a1fee8",
+        "type": "spacer.default"
+      }
+    ]
+  },
+  {
+    "pathname": "/nosotros/",
+    "title": "Nosotros - Estenio Corporativo",
+    "meta": [
+      {
+        "name": "viewport",
+        "content": "width=device-width, initial-scale=1"
+      },
+      {
+        "name": "robots",
+        "content": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "rel": "canonical",
+        "href": "https://estenio.com.mx/nosotros/"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_ES"
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Nosotros - Estenio Corporativo"
+      },
+      {
+        "property": "og:description",
+        "content": "NOSOTROS NUESTRA HISTORIA CORPORATIVO ESTRATÉGICO ESTENIO Corporativo Estenio es un despacho independiente y especializado en Seguridad Social en México, con más de 50 años de experiencia. Acompañamos a empresas, personas y entidades públicas en auditorías, litigios, procesos de pensión, recuperación de fondos y cumplimiento normativo, diseñando soluciones estratégicas frente a IMSS, INFONAVIT, AFORE, STPS y […]"
+      },
+      {
+        "property": "og:url",
+        "content": "https://estenio.com.mx/nosotros/"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Estenio Corporativo"
+      },
+      {
+        "property": "article:publisher",
+        "content": "https://www.facebook.com/estenioMX/"
+      },
+      {
+        "property": "article:modified_time",
+        "content": "2025-08-16T23:27:11+00:00"
+      },
+      {
+        "property": "og:image",
+        "content": "https://estenio.com.mx/wp-content/uploads/2025/07/nosotros-img-01.jpg"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:label1",
+        "content": "Tiempo de lectura"
+      },
+      {
+        "name": "twitter:data1",
+        "content": "2 minutos"
+      },
+      {
+        "name": "generator",
+        "content": "WordPress 7.1.2"
+      },
+      {
+        "name": "generator",
+        "content": "Site Kit by Google 1.176.0"
+      },
+      {
+        "name": "generator",
+        "content": "Elementor 4.3.2; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap"
+      },
+      {
+        "name": "msapplication-TileImage",
+        "content": "https://estenio.com.mx/wp-content/uploads/2025/04/icono-estenio.png"
+      }
+    ],
+    "links": [
+      {
+        "text": "Ir al contenido",
+        "href": "#content"
+      },
+      {
+        "text": "",
+        "href": "https://estenio.com.mx"
+      },
+      {
+        "text": "INICIO",
+        "href": "https://estenio.com.mx/"
+      },
+      {
+        "text": "NOSOTROS",
+        "href": "https://estenio.com.mx/nosotros/"
+      },
+      {
+        "text": "Auditoría",
+        "href": "https://estenio.com.mx/auditoria/"
+      },
+      {
+        "text": "Legal",
+        "href": "https://estenio.com.mx/legal/"
+      },
+      {
+        "text": "Asesoría INFONAVIT",
+        "href": "https://estenio.com.mx/asesoria-infonavit/"
+      },
+      {
+        "text": "Pensión",
+        "href": "https://estenio.com.mx/gestor-de-pensiones/"
+      },
+      {
+        "text": "PENSIÓN",
+        "href": "https://estenio.com.mx/gestor-de-pensiones/"
+      },
+      {
+        "text": "CONTACTO",
+        "href": "/#footer"
+      },
+      {
+        "text": "INICIO",
+        "href": "https://estenio.com.mx/"
+      },
+      {
+        "text": "NOSOTROS",
+        "href": "https://estenio.com.mx/nosotros/"
+      },
+      {
+        "text": "Auditoría",
+        "href": "https://estenio.com.mx/auditoria/"
+      },
+      {
+        "text": "Legal",
+        "href": "https://estenio.com.mx/legal/"
+      },
+      {
+        "text": "Asesoría INFONAVIT",
+        "href": "https://estenio.com.mx/asesoria-infonavit/"
+      },
+      {
+        "text": "Pensión",
+        "href": "https://estenio.com.mx/gestor-de-pensiones/"
+      },
+      {
+        "text": "PENSIÓN",
+        "href": "https://estenio.com.mx/gestor-de-pensiones/"
+      },
+      {
+        "text": "CONTACTO",
+        "href": "/#footer"
+      },
+      {
+        "text": "Calle Cracovia 72, San Ángel, Álvaro Obregón, 01000 Ciudad de México, CDMX",
+        "href": "https://maps.app.goo.gl/UGFv7zfEMZZSfXzS6"
+      },
+      {
+        "text": "info@estenio.com.mx",
+        "href": "mailto:info@estenio.com.mx"
+      },
+      {
+        "text": "+52 (55) 5682 0573",
+        "href": "tel:5556820573"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/estenioMX/"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/esteniomx/"
+      },
+      {
+        "text": "",
+        "href": "https://www.linkedin.com/company/corporativo-estenio/posts/?feedView=all"
+      }
+    ],
+    "widgets": [
+      {
+        "id": "6711308",
+        "type": "heading.default"
+      },
+      {
+        "id": "6c6ac0e",
+        "type": "heading.default"
+      },
+      {
+        "id": "eb9e854",
+        "type": "heading.default"
+      },
+      {
+        "id": "8eb6e82",
+        "type": "spacer.default"
+      },
+      {
+        "id": "09e132d",
+        "type": "image.default"
+      },
+      {
+        "id": "628d476",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "26f06c4",
+        "type": "image.default"
+      },
+      {
+        "id": "9b29480",
+        "type": "spacer.default"
+      },
+      {
+        "id": "894a839",
+        "type": "heading.default"
+      },
+      {
+        "id": "ee2ea6d",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "4a9c70f",
+        "type": "image.default"
+      },
+      {
+        "id": "2ac84df",
+        "type": "heading.default"
+      },
+      {
+        "id": "7797de9",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "42ee899",
+        "type": "image.default"
+      },
+      {
+        "id": "dc9a7ec",
+        "type": "heading.default"
+      },
+      {
+        "id": "db9e33e",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "ab4dac2",
+        "type": "image.default"
+      },
+      {
+        "id": "5fdfe29",
+        "type": "heading.default"
+      },
+      {
+        "id": "fc94059",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "4fcd362",
+        "type": "image.default"
+      },
+      {
+        "id": "6444adf",
+        "type": "heading.default"
+      },
+      {
+        "id": "f23674b",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "e90f6ea",
+        "type": "image.default"
+      },
+      {
+        "id": "b4e44e7",
+        "type": "heading.default"
+      },
+      {
+        "id": "9e31308",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "4bb21e9",
+        "type": "image.default"
+      },
+      {
+        "id": "ab1353a",
+        "type": "heading.default"
+      },
+      {
+        "id": "6950626",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "0d4567b",
+        "type": "image.default"
+      },
+      {
+        "id": "3e12f03",
+        "type": "heading.default"
+      },
+      {
+        "id": "d989537",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "f957f90",
+        "type": "image.default"
+      },
+      {
+        "id": "76eb512",
+        "type": "heading.default"
+      },
+      {
+        "id": "05a1091",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "05db012",
+        "type": "spacer.default"
+      },
+      {
+        "id": "2eb098c",
+        "type": "heading.default"
+      },
+      {
+        "id": "af20720",
+        "type": "heading.default"
+      },
+      {
+        "id": "28b69d5",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "acb5e0a",
+        "type": "heading.default"
+      },
+      {
+        "id": "dc423a9",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "ce11621",
+        "type": "heading.default"
+      },
+      {
+        "id": "b94eb45",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "a7dcc63",
+        "type": "heading.default"
+      },
+      {
+        "id": "f4dce7d",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "6d4139c",
+        "type": "heading.default"
+      },
+      {
+        "id": "7e3ae94",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "f5f705d",
+        "type": "heading.default"
+      },
+      {
+        "id": "f4bc58c",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "9a0059f",
+        "type": "heading.default"
+      },
+      {
+        "id": "5b9c9b5",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "06b603c",
+        "type": "heading.default"
+      },
+      {
+        "id": "3a5eea8",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "24ce693",
+        "type": "heading.default"
+      },
+      {
+        "id": "53420e1",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "04cc824",
+        "type": "heading.default"
+      },
+      {
+        "id": "63f4527",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "5e27646",
+        "type": "heading.default"
+      },
+      {
+        "id": "89f3c08",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "b422b38",
+        "type": "heading.default"
+      },
+      {
+        "id": "bbbccae",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "bd6d86c",
+        "type": "heading.default"
+      },
+      {
+        "id": "50d523e",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "78d5ef1",
+        "type": "heading.default"
+      },
+      {
+        "id": "ee08421",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "00a8d16",
+        "type": "heading.default"
+      },
+      {
+        "id": "747f37a",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "5326bce",
+        "type": "heading.default"
+      },
+      {
+        "id": "946f023",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "a8aee3d",
+        "type": "heading.default"
+      },
+      {
+        "id": "f391e33",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "0513e0c",
+        "type": "heading.default"
+      },
+      {
+        "id": "73f3c72",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "437e502",
+        "type": "heading.default"
+      },
+      {
+        "id": "b8caf4b",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "774365a",
+        "type": "heading.default"
+      },
+      {
+        "id": "2b8f46a",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "30de952",
+        "type": "heading.default"
+      },
+      {
+        "id": "2418929",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "35c3e0d",
+        "type": "heading.default"
+      },
+      {
+        "id": "9cc597b",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "b017617",
+        "type": "heading.default"
+      },
+      {
+        "id": "5ae5ac1",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "deb9402",
+        "type": "heading.default"
+      },
+      {
+        "id": "1526f15",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "0425888",
+        "type": "heading.default"
+      },
+      {
+        "id": "c7af5cd",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "d3fe980",
+        "type": "heading.default"
+      },
+      {
+        "id": "9bc9adc",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "1a7c95f",
+        "type": "heading.default"
+      },
+      {
+        "id": "ae313a4",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "bdfdcf9",
+        "type": "heading.default"
+      },
+      {
+        "id": "dcc24ba",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "bfb22f0",
+        "type": "heading.default"
+      },
+      {
+        "id": "32a0ff7",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "f1bc77f",
+        "type": "heading.default"
+      },
+      {
+        "id": "0cb7bd2",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "bd75015",
+        "type": "heading.default"
+      },
+      {
+        "id": "61580aa",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "ccf5796",
+        "type": "heading.default"
+      },
+      {
+        "id": "6a789a6",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "eea7ea3",
+        "type": "heading.default"
+      },
+      {
+        "id": "14594126",
+        "type": "heading.default"
+      },
+      {
+        "id": "5f0725c3",
+        "type": "heading.default"
+      },
+      {
+        "id": "1fa977c3",
+        "type": "heading.default"
+      },
+      {
+        "id": "2ab18448",
+        "type": "heading.default"
+      },
+      {
+        "id": "88ca09d",
+        "type": "form.default"
+      }
+    ]
+  },
+  {
+    "pathname": "/auditoria/",
+    "title": "Auditoría - Estenio Corporativo",
+    "meta": [
+      {
+        "name": "viewport",
+        "content": "width=device-width, initial-scale=1"
+      },
+      {
+        "name": "robots",
+        "content": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "rel": "canonical",
+        "href": "https://estenio.com.mx/auditoria/"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_ES"
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Auditoría - Estenio Corporativo"
+      },
+      {
+        "property": "og:description",
+        "content": "AUDITORÍA Servicio de Auditoría Nuestro equipo asesora a empresas de todos los tamaños en la detección, análisis y corrección de riesgos relacionados con el cumplimiento de sus obligaciones en materia de Seguridad Social, generando ahorro y evitando multas. Nuestro enfoque combina auditoría preventiva, para identificar riesgos y oportunidades antes de que se conviertan en contingencias, […]"
+      },
+      {
+        "property": "og:url",
+        "content": "https://estenio.com.mx/auditoria/"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Estenio Corporativo"
+      },
+      {
+        "property": "article:publisher",
+        "content": "https://www.facebook.com/estenioMX/"
+      },
+      {
+        "property": "article:modified_time",
+        "content": "2025-08-30T05:24:12+00:00"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:label1",
+        "content": "Tiempo de lectura"
+      },
+      {
+        "name": "twitter:data1",
+        "content": "17 minutos"
+      },
+      {
+        "name": "generator",
+        "content": "WordPress 7.1.2"
+      },
+      {
+        "name": "generator",
+        "content": "Site Kit by Google 1.176.0"
+      },
+      {
+        "name": "generator",
+        "content": "Elementor 4.3.2; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap"
+      },
+      {
+        "name": "msapplication-TileImage",
+        "content": "https://estenio.com.mx/wp-content/uploads/2025/04/icono-estenio.png"
+      }
+    ],
+    "links": [
+      {
+        "text": "Ir al contenido",
+        "href": "#content"
+      },
+      {
+        "text": "",
+        "href": "https://estenio.com.mx"
+      },
+      {
+        "text": "INICIO",
+        "href": "https://estenio.com.mx/"
+      },
+      {
+        "text": "NOSOTROS",
+        "href": "https://estenio.com.mx/nosotros/"
+      },
+      {
+        "text": "Auditoría",
+        "href": "https://estenio.com.mx/auditoria/"
+      },
+      {
+        "text": "Legal",
+        "href": "https://estenio.com.mx/legal/"
+      },
+      {
+        "text": "Asesoría INFONAVIT",
+        "href": "https://estenio.com.mx/asesoria-infonavit/"
+      },
+      {
+        "text": "Pensión",
+        "href": "https://estenio.com.mx/gestor-de-pensiones/"
+      },
+      {
+        "text": "PENSIÓN",
+        "href": "https://estenio.com.mx/gestor-de-pensiones/"
+      },
+      {
+        "text": "CONTACTO",
+        "href": "/#footer"
+      },
+      {
+        "text": "INICIO",
+        "href": "https://estenio.com.mx/"
+      },
+      {
+        "text": "NOSOTROS",
+        "href": "https://estenio.com.mx/nosotros/"
+      },
+      {
+        "text": "Auditoría",
+        "href": "https://estenio.com.mx/auditoria/"
+      },
+      {
+        "text": "Legal",
+        "href": "https://estenio.com.mx/legal/"
+      },
+      {
+        "text": "Asesoría INFONAVIT",
+        "href": "https://estenio.com.mx/asesoria-infonavit/"
+      },
+      {
+        "text": "Pensión",
+        "href": "https://estenio.com.mx/gestor-de-pensiones/"
+      },
+      {
+        "text": "PENSIÓN",
+        "href": "https://estenio.com.mx/gestor-de-pensiones/"
+      },
+      {
+        "text": "CONTACTO",
+        "href": "/#footer"
+      },
+      {
+        "text": "Calle Cracovia 72, San Ángel, Álvaro Obregón, 01000 Ciudad de México, CDMX",
+        "href": "https://maps.app.goo.gl/UGFv7zfEMZZSfXzS6"
+      },
+      {
+        "text": "info@estenio.com.mx",
+        "href": "mailto:info@estenio.com.mx"
+      },
+      {
+        "text": "+52 (55) 5682 0573",
+        "href": "tel:5556820573"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/estenioMX/"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/esteniomx/"
+      },
+      {
+        "text": "",
+        "href": "https://www.linkedin.com/company/corporativo-estenio/posts/?feedView=all"
+      }
+    ],
+    "widgets": [
+      {
+        "id": "30ef2df",
+        "type": "heading.default"
+      },
+      {
+        "id": "9302a68",
+        "type": "heading.default"
+      },
+      {
+        "id": "173a9b9",
+        "type": "heading.default"
+      },
+      {
+        "id": "58198da9",
+        "type": "nested-tabs.default"
+      },
+      {
+        "id": "2ac5d82a",
+        "type": "heading.default"
+      },
+      {
+        "id": "1d4d86e0",
+        "type": "heading.default"
+      },
+      {
+        "id": "7c1ff27",
+        "type": "heading.default"
+      },
+      {
+        "id": "25e4168",
+        "type": "heading.default"
+      },
+      {
+        "id": "356aee0a",
+        "type": "heading.default"
+      },
+      {
+        "id": "539633b7",
+        "type": "heading.default"
+      },
+      {
+        "id": "3cfeaea1",
+        "type": "heading.default"
+      },
+      {
+        "id": "14b33701",
+        "type": "heading.default"
+      },
+      {
+        "id": "38f60ce0",
+        "type": "heading.default"
+      },
+      {
+        "id": "540ca130",
+        "type": "heading.default"
+      },
+      {
+        "id": "1404673",
+        "type": "divider.default"
+      },
+      {
+        "id": "bee938a",
+        "type": "heading.default"
+      },
+      {
+        "id": "3e3617a6",
+        "type": "loop-grid.post"
+      },
+      {
+        "id": "305ef96d",
+        "type": "flip-box.default"
+      },
+      {
+        "id": "305ef96d",
+        "type": "flip-box.default"
+      },
+      {
+        "id": "305ef96d",
+        "type": "flip-box.default"
+      },
+      {
+        "id": "305ef96d",
+        "type": "flip-box.default"
+      },
+      {
+        "id": "305ef96d",
+        "type": "flip-box.default"
+      },
+      {
+        "id": "305ef96d",
+        "type": "flip-box.default"
+      },
+      {
+        "id": "305ef96d",
+        "type": "flip-box.default"
+      },
+      {
+        "id": "305ef96d",
+        "type": "flip-box.default"
+      },
+      {
+        "id": "305ef96d",
+        "type": "flip-box.default"
+      },
+      {
+        "id": "305ef96d",
+        "type": "flip-box.default"
+      },
+      {
+        "id": "305ef96d",
+        "type": "flip-box.default"
+      },
+      {
+        "id": "305ef96d",
+        "type": "flip-box.default"
+      },
+      {
+        "id": "305ef96d",
+        "type": "flip-box.default"
+      },
+      {
+        "id": "305ef96d",
+        "type": "flip-box.default"
+      },
+      {
+        "id": "305ef96d",
+        "type": "flip-box.default"
+      },
+      {
+        "id": "305ef96d",
+        "type": "flip-box.default"
+      },
+      {
+        "id": "305ef96d",
+        "type": "flip-box.default"
+      },
+      {
+        "id": "305ef96d",
+        "type": "flip-box.default"
+      },
+      {
+        "id": "4037e57c",
+        "type": "heading.default"
+      },
+      {
+        "id": "48831130",
+        "type": "heading.default"
+      },
+      {
+        "id": "408f092e",
+        "type": "heading.default"
+      },
+      {
+        "id": "b200a15",
+        "type": "form.default"
+      }
+    ]
+  },
+  {
+    "pathname": "/legal/",
+    "title": "Representación legal - Estenio Corporativo",
+    "meta": [
+      {
+        "name": "viewport",
+        "content": "width=device-width, initial-scale=1"
+      },
+      {
+        "name": "robots",
+        "content": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "description",
+        "content": "Representación legal ante actos del IMSS e INFONAVIT que afectan los derechos o el patrimonio de nuestros clientes."
+      },
+      {
+        "rel": "canonical",
+        "href": "https://estenio.com.mx/legal/"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_ES"
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Representación legal - Estenio Corporativo"
+      },
+      {
+        "property": "og:description",
+        "content": "Representación legal ante actos del IMSS e INFONAVIT que afectan los derechos o el patrimonio de nuestros clientes."
+      },
+      {
+        "property": "og:url",
+        "content": "https://estenio.com.mx/legal/"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Estenio Corporativo"
+      },
+      {
+        "property": "article:publisher",
+        "content": "https://www.facebook.com/estenioMX/"
+      },
+      {
+        "property": "article:modified_time",
+        "content": "2026-02-05T22:39:08+00:00"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:label1",
+        "content": "Tiempo de lectura"
+      },
+      {
+        "name": "twitter:data1",
+        "content": "4 minutos"
+      },
+      {
+        "name": "generator",
+        "content": "WordPress 7.1.2"
+      },
+      {
+        "name": "generator",
+        "content": "Site Kit by Google 1.176.0"
+      },
+      {
+        "name": "generator",
+        "content": "Elementor 4.3.2; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap"
+      },
+      {
+        "name": "msapplication-TileImage",
+        "content": "https://estenio.com.mx/wp-content/uploads/2025/04/icono-estenio.png"
+      }
+    ],
+    "links": [
+      {
+        "text": "Ir al contenido",
+        "href": "#content"
+      },
+      {
+        "text": "",
+        "href": "https://estenio.com.mx"
+      },
+      {
+        "text": "INICIO",
+        "href": "https://estenio.com.mx/"
+      },
+      {
+        "text": "NOSOTROS",
+        "href": "https://estenio.com.mx/nosotros/"
+      },
+      {
+        "text": "Auditoría",
+        "href": "https://estenio.com.mx/auditoria/"
+      },
+      {
+        "text": "Legal",
+        "href": "https://estenio.com.mx/legal/"
+      },
+      {
+        "text": "Asesoría INFONAVIT",
+        "href": "https://estenio.com.mx/asesoria-infonavit/"
+      },
+      {
+        "text": "Pensión",
+        "href": "https://estenio.com.mx/gestor-de-pensiones/"
+      },
+      {
+        "text": "PENSIÓN",
+        "href": "https://estenio.com.mx/gestor-de-pensiones/"
+      },
+      {
+        "text": "CONTACTO",
+        "href": "/#footer"
+      },
+      {
+        "text": "INICIO",
+        "href": "https://estenio.com.mx/"
+      },
+      {
+        "text": "NOSOTROS",
+        "href": "https://estenio.com.mx/nosotros/"
+      },
+      {
+        "text": "Auditoría",
+        "href": "https://estenio.com.mx/auditoria/"
+      },
+      {
+        "text": "Legal",
+        "href": "https://estenio.com.mx/legal/"
+      },
+      {
+        "text": "Asesoría INFONAVIT",
+        "href": "https://estenio.com.mx/asesoria-infonavit/"
+      },
+      {
+        "text": "Pensión",
+        "href": "https://estenio.com.mx/gestor-de-pensiones/"
+      },
+      {
+        "text": "PENSIÓN",
+        "href": "https://estenio.com.mx/gestor-de-pensiones/"
+      },
+      {
+        "text": "CONTACTO",
+        "href": "/#footer"
+      },
+      {
+        "text": "Calle Cracovia 72, San Ángel, Álvaro Obregón, 01000 Ciudad de México, CDMX",
+        "href": "https://maps.app.goo.gl/UGFv7zfEMZZSfXzS6"
+      },
+      {
+        "text": "info@estenio.com.mx",
+        "href": "mailto:info@estenio.com.mx"
+      },
+      {
+        "text": "+52 (55) 5682 0573",
+        "href": "tel:5556820573"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/estenioMX/"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/esteniomx/"
+      },
+      {
+        "text": "",
+        "href": "https://www.linkedin.com/company/corporativo-estenio/posts/?feedView=all"
+      }
+    ],
+    "widgets": [
+      {
+        "id": "8d953d1",
+        "type": "heading.default"
+      },
+      {
+        "id": "60ff5486",
+        "type": "heading.default"
+      },
+      {
+        "id": "53cee33a",
+        "type": "heading.default"
+      },
+      {
+        "id": "28b0430f",
+        "type": "nested-tabs.default"
+      },
+      {
+        "id": "5ead6fa5",
+        "type": "heading.default"
+      },
+      {
+        "id": "7be3c73d",
+        "type": "heading.default"
+      },
+      {
+        "id": "1fde1f7b",
+        "type": "heading.default"
+      },
+      {
+        "id": "5818b67a",
+        "type": "heading.default"
+      },
+      {
+        "id": "7b4ecdd3",
+        "type": "heading.default"
+      },
+      {
+        "id": "1ff66f49",
+        "type": "heading.default"
+      },
+      {
+        "id": "25802846",
+        "type": "heading.default"
+      },
+      {
+        "id": "6bf9c311",
+        "type": "heading.default"
+      },
+      {
+        "id": "1e19651a",
+        "type": "heading.default"
+      },
+      {
+        "id": "593db66c",
+        "type": "heading.default"
+      },
+      {
+        "id": "896bdd9",
+        "type": "divider.default"
+      },
+      {
+        "id": "7a2bd2e4",
+        "type": "heading.default"
+      },
+      {
+        "id": "14f6f575",
+        "type": "loop-grid.post"
+      },
+      {
+        "id": "305ef96d",
+        "type": "flip-box.default"
+      },
+      {
+        "id": "305ef96d",
+        "type": "flip-box.default"
+      },
+      {
+        "id": "305ef96d",
+        "type": "flip-box.default"
+      },
+      {
+        "id": "305ef96d",
+        "type": "flip-box.default"
+      },
+      {
+        "id": "305ef96d",
+        "type": "flip-box.default"
+      },
+      {
+        "id": "305ef96d",
+        "type": "flip-box.default"
+      },
+      {
+        "id": "305ef96d",
+        "type": "flip-box.default"
+      },
+      {
+        "id": "305ef96d",
+        "type": "flip-box.default"
+      },
+      {
+        "id": "305ef96d",
+        "type": "flip-box.default"
+      },
+      {
+        "id": "305ef96d",
+        "type": "flip-box.default"
+      },
+      {
+        "id": "305ef96d",
+        "type": "flip-box.default"
+      },
+      {
+        "id": "305ef96d",
+        "type": "flip-box.default"
+      },
+      {
+        "id": "62c9fc3a",
+        "type": "heading.default"
+      },
+      {
+        "id": "2afba56",
+        "type": "heading.default"
+      },
+      {
+        "id": "3d5e9c9f",
+        "type": "heading.default"
+      },
+      {
+        "id": "4aef8075",
+        "type": "form.default"
+      }
+    ]
+  },
+  {
+    "pathname": "/asesoria-infonavit/",
+    "title": "asesoria-infonavit - Estenio Corporativo",
+    "meta": [
+      {
+        "name": "viewport",
+        "content": "width=device-width, initial-scale=1"
+      },
+      {
+        "name": "robots",
+        "content": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "rel": "canonical",
+        "href": "https://estenio.com.mx/asesoria-infonavit/"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_ES"
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "asesoria-infonavit - Estenio Corporativo"
+      },
+      {
+        "property": "og:description",
+        "content": "ASESORÍA INFONAVIT ASESORÍA INFONAVIT Brindamos asesoría integral en materia de INFONAVIT para empresas, trabajadores y sindicatos, con el objetivo de maximizar beneficios, prevenir riesgos y garantizar un cumplimiento claro y eficiente. Apoyamos a empleadores en la regularización de aportaciones, gestión de créditos, celebración de convenios y atención de requerimientos. Acompañamos a trabajadores en la obtención, […]"
+      },
+      {
+        "property": "og:url",
+        "content": "https://estenio.com.mx/asesoria-infonavit/"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Estenio Corporativo"
+      },
+      {
+        "property": "article:publisher",
+        "content": "https://www.facebook.com/estenioMX/"
+      },
+      {
+        "property": "article:modified_time",
+        "content": "2025-08-16T23:06:21+00:00"
+      },
+      {
+        "property": "og:image",
+        "content": "https://estenio.com.mx/wp-content/uploads/2025/07/infonavit-img-01-1.jpg"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:label1",
+        "content": "Tiempo de lectura"
+      },
+      {
+        "name": "twitter:data1",
+        "content": "4 minutos"
+      },
+      {
+        "name": "generator",
+        "content": "WordPress 7.1.2"
+      },
+      {
+        "name": "generator",
+        "content": "Site Kit by Google 1.176.0"
+      },
+      {
+        "name": "generator",
+        "content": "Elementor 4.3.2; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap"
+      },
+      {
+        "name": "msapplication-TileImage",
+        "content": "https://estenio.com.mx/wp-content/uploads/2025/04/icono-estenio.png"
+      }
+    ],
+    "links": [
+      {
+        "text": "Ir al contenido",
+        "href": "#content"
+      },
+      {
+        "text": "",
+        "href": "https://estenio.com.mx"
+      },
+      {
+        "text": "INICIO",
+        "href": "https://estenio.com.mx/"
+      },
+      {
+        "text": "NOSOTROS",
+        "href": "https://estenio.com.mx/nosotros/"
+      },
+      {
+        "text": "Auditoría",
+        "href": "https://estenio.com.mx/auditoria/"
+      },
+      {
+        "text": "Legal",
+        "href": "https://estenio.com.mx/legal/"
+      },
+      {
+        "text": "Asesoría INFONAVIT",
+        "href": "https://estenio.com.mx/asesoria-infonavit/"
+      },
+      {
+        "text": "Pensión",
+        "href": "https://estenio.com.mx/gestor-de-pensiones/"
+      },
+      {
+        "text": "PENSIÓN",
+        "href": "https://estenio.com.mx/gestor-de-pensiones/"
+      },
+      {
+        "text": "CONTACTO",
+        "href": "/#footer"
+      },
+      {
+        "text": "INICIO",
+        "href": "https://estenio.com.mx/"
+      },
+      {
+        "text": "NOSOTROS",
+        "href": "https://estenio.com.mx/nosotros/"
+      },
+      {
+        "text": "Auditoría",
+        "href": "https://estenio.com.mx/auditoria/"
+      },
+      {
+        "text": "Legal",
+        "href": "https://estenio.com.mx/legal/"
+      },
+      {
+        "text": "Asesoría INFONAVIT",
+        "href": "https://estenio.com.mx/asesoria-infonavit/"
+      },
+      {
+        "text": "Pensión",
+        "href": "https://estenio.com.mx/gestor-de-pensiones/"
+      },
+      {
+        "text": "PENSIÓN",
+        "href": "https://estenio.com.mx/gestor-de-pensiones/"
+      },
+      {
+        "text": "CONTACTO",
+        "href": "/#footer"
+      },
+      {
+        "text": "ASISTIR",
+        "href": "https://linktr.ee/ESTENIOMX"
+      },
+      {
+        "text": "Calle Cracovia 72, San Ángel, Álvaro Obregón, 01000 Ciudad de México, CDMX",
+        "href": "https://maps.app.goo.gl/UGFv7zfEMZZSfXzS6"
+      },
+      {
+        "text": "info@estenio.com.mx",
+        "href": "mailto:info@estenio.com.mx"
+      },
+      {
+        "text": "+52 (55) 5682 0573",
+        "href": "tel:5556820573"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/estenioMX/"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/esteniomx/"
+      },
+      {
+        "text": "",
+        "href": "https://www.linkedin.com/company/corporativo-estenio/posts/?feedView=all"
+      }
+    ],
+    "widgets": [
+      {
+        "id": "19a21b38",
+        "type": "heading.default"
+      },
+      {
+        "id": "5b942fa8",
+        "type": "heading.default"
+      },
+      {
+        "id": "d596653",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "355c2146",
+        "type": "image.default"
+      },
+      {
+        "id": "50506719",
+        "type": "heading.default"
+      },
+      {
+        "id": "2098f44e",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "cd6d2af",
+        "type": "heading.default"
+      },
+      {
+        "id": "b7b080b",
+        "type": "heading.default"
+      },
+      {
+        "id": "27dab51",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "0ebeed7",
+        "type": "heading.default"
+      },
+      {
+        "id": "cadbeb4",
+        "type": "heading.default"
+      },
+      {
+        "id": "0505ed6",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "775b725",
+        "type": "heading.default"
+      },
+      {
+        "id": "8fed2f9",
+        "type": "heading.default"
+      },
+      {
+        "id": "0d467ee",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "3569098",
+        "type": "heading.default"
+      },
+      {
+        "id": "fff15e0",
+        "type": "heading.default"
+      },
+      {
+        "id": "025d12d",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "1a1b847",
+        "type": "heading.default"
+      },
+      {
+        "id": "9952195",
+        "type": "heading.default"
+      },
+      {
+        "id": "f7c873c",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "4ebfd341",
+        "type": "spacer.default"
+      },
+      {
+        "id": "e8cdec5",
+        "type": "image.default"
+      },
+      {
+        "id": "aaf8499",
+        "type": "heading.default"
+      },
+      {
+        "id": "f2492ae",
+        "type": "button.default"
+      },
+      {
+        "id": "9f8a764",
+        "type": "spacer.default"
+      },
+      {
+        "id": "9b1956b",
+        "type": "heading.default"
+      },
+      {
+        "id": "b1129a9",
+        "type": "image.default"
+      },
+      {
+        "id": "2e2b6a3",
+        "type": "nested-accordion.default"
+      },
+      {
+        "id": "6d2c030",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "363b1d8",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "d20cf6c",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "5a0ebf1",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "75de1c2b",
+        "type": "heading.default"
+      },
+      {
+        "id": "29e37c34",
+        "type": "heading.default"
+      },
+      {
+        "id": "448dbd32",
+        "type": "heading.default"
+      },
+      {
+        "id": "7970ef9d",
+        "type": "form.default"
+      }
+    ]
+  },
+  {
+    "pathname": "/gestor-de-pensiones/",
+    "title": "Pensión - Estenio Corporativo",
+    "meta": [
+      {
+        "name": "viewport",
+        "content": "width=device-width, initial-scale=1"
+      },
+      {
+        "name": "robots",
+        "content": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "description",
+        "content": "Gestor de pensiones. Maximiza tu pensión IMSS y recupera fondos de AFORE. Asegura un retiro más seguro, rentable y libre de obstáculos burocráticos."
+      },
+      {
+        "rel": "canonical",
+        "href": "https://estenio.com.mx/gestor-de-pensiones/"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_ES"
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Pensión - Estenio Corporativo"
+      },
+      {
+        "property": "og:description",
+        "content": "Gestor de pensiones. Maximiza tu pensión IMSS y recupera fondos de AFORE. Asegura un retiro más seguro, rentable y libre de obstáculos burocráticos."
+      },
+      {
+        "property": "og:url",
+        "content": "https://estenio.com.mx/gestor-de-pensiones/"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Estenio Corporativo"
+      },
+      {
+        "property": "article:publisher",
+        "content": "https://www.facebook.com/estenioMX/"
+      },
+      {
+        "property": "article:modified_time",
+        "content": "2026-02-26T18:42:17+00:00"
+      },
+      {
+        "property": "og:image",
+        "content": "https://estenio.com.mx/wp-content/uploads/elementor/thumbs/logo-estenio-blanco-r9b4p5kt2y3m52plfaral200tktm727o4ro1yr22rs.png"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:label1",
+        "content": "Tiempo de lectura"
+      },
+      {
+        "name": "twitter:data1",
+        "content": "10 minutos"
+      },
+      {
+        "name": "generator",
+        "content": "WordPress 7.1.2"
+      },
+      {
+        "name": "generator",
+        "content": "Site Kit by Google 1.176.0"
+      },
+      {
+        "name": "generator",
+        "content": "Elementor 4.3.2; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap"
+      },
+      {
+        "name": "msapplication-TileImage",
+        "content": "https://estenio.com.mx/wp-content/uploads/2025/04/icono-estenio.png"
+      }
+    ],
+    "links": [
+      {
+        "text": "Ir al contenido",
+        "href": "#content"
+      },
+      {
+        "text": "",
+        "href": "https://estenio.com.mx"
+      },
+      {
+        "text": "INICIO",
+        "href": "https://estenio.com.mx/"
+      },
+      {
+        "text": "NOSOTROS",
+        "href": "https://estenio.com.mx/nosotros/"
+      },
+      {
+        "text": "Auditoría",
+        "href": "https://estenio.com.mx/auditoria/"
+      },
+      {
+        "text": "Legal",
+        "href": "https://estenio.com.mx/legal/"
+      },
+      {
+        "text": "Asesoría INFONAVIT",
+        "href": "https://estenio.com.mx/asesoria-infonavit/"
+      },
+      {
+        "text": "Pensión",
+        "href": "https://estenio.com.mx/gestor-de-pensiones/"
+      },
+      {
+        "text": "PENSIÓN",
+        "href": "https://estenio.com.mx/gestor-de-pensiones/"
+      },
+      {
+        "text": "CONTACTO",
+        "href": "/#footer"
+      },
+      {
+        "text": "INICIO",
+        "href": "https://estenio.com.mx/"
+      },
+      {
+        "text": "NOSOTROS",
+        "href": "https://estenio.com.mx/nosotros/"
+      },
+      {
+        "text": "Auditoría",
+        "href": "https://estenio.com.mx/auditoria/"
+      },
+      {
+        "text": "Legal",
+        "href": "https://estenio.com.mx/legal/"
+      },
+      {
+        "text": "Asesoría INFONAVIT",
+        "href": "https://estenio.com.mx/asesoria-infonavit/"
+      },
+      {
+        "text": "Pensión",
+        "href": "https://estenio.com.mx/gestor-de-pensiones/"
+      },
+      {
+        "text": "PENSIÓN",
+        "href": "https://estenio.com.mx/gestor-de-pensiones/"
+      },
+      {
+        "text": "CONTACTO",
+        "href": "/#footer"
+      },
+      {
+        "text": "ASISTIR",
+        "href": "https://linktr.ee/ESTENIOMX"
+      },
+      {
+        "text": "Calle Cracovia 72, San Ángel, Álvaro Obregón, 01000 Ciudad de México, CDMX",
+        "href": "https://maps.app.goo.gl/UGFv7zfEMZZSfXzS6"
+      },
+      {
+        "text": "info@estenio.com.mx",
+        "href": "mailto:info@estenio.com.mx"
+      },
+      {
+        "text": "+52 (55) 5682 0573",
+        "href": "tel:5556820573"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/estenioMX/"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/esteniomx/"
+      },
+      {
+        "text": "",
+        "href": "https://www.linkedin.com/company/corporativo-estenio/posts/?feedView=all"
+      }
+    ],
+    "widgets": [
+      {
+        "id": "444380a1",
+        "type": "heading.default"
+      },
+      {
+        "id": "bebab99",
+        "type": "heading.default"
+      },
+      {
+        "id": "3bc8c23",
+        "type": "heading.default"
+      },
+      {
+        "id": "7e44982",
+        "type": "nested-tabs.default"
+      },
+      {
+        "id": "3ca25e4",
+        "type": "heading.default"
+      },
+      {
+        "id": "63e0501",
+        "type": "heading.default"
+      },
+      {
+        "id": "59275e4",
+        "type": "heading.default"
+      },
+      {
+        "id": "69573c4",
+        "type": "heading.default"
+      },
+      {
+        "id": "9645c57",
+        "type": "heading.default"
+      },
+      {
+        "id": "ed8524a",
+        "type": "heading.default"
+      },
+      {
+        "id": "3070a34",
+        "type": "divider.default"
+      },
+      {
+        "id": "48b80823",
+        "type": "heading.default"
+      },
+      {
+        "id": "a15364e",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "c125abc",
+        "type": "heading.default"
+      },
+      {
+        "id": "ee9be21",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "56f51df6",
+        "type": "heading.default"
+      },
+      {
+        "id": "4b8544ec",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "2505f8ac",
+        "type": "spacer.default"
+      },
+      {
+        "id": "25c1cacc",
+        "type": "image.default"
+      },
+      {
+        "id": "6b84738c",
+        "type": "heading.default"
+      },
+      {
+        "id": "2015a83c",
+        "type": "button.default"
+      },
+      {
+        "id": "ed3f3ba",
+        "type": "heading.default"
+      },
+      {
+        "id": "9d4fdc6",
+        "type": "testimonial-carousel.default"
+      },
+      {
+        "id": "45d5fbb1",
+        "type": "spacer.default"
+      },
+      {
+        "id": "fa8c1ed",
+        "type": "heading.default"
+      },
+      {
+        "id": "e69d1b1",
+        "type": "nested-accordion.default"
+      },
+      {
+        "id": "dd72b1a",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "4828f7d",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "bf6ad71",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "e69c424",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "93e5dec",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "c1ad2f4",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "253513b",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "04f5b6d",
+        "type": "nested-accordion.default"
+      },
+      {
+        "id": "2e7630c",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "eebba35",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "79aa345",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "cf5f7d6",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "3bd1d92",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "d518975",
+        "type": "text-editor.default"
+      },
+      {
+        "id": "4be76fc",
+        "type": "heading.default"
+      },
+      {
+        "id": "7d23fd4e",
+        "type": "heading.default"
+      },
+      {
+        "id": "4aaf5ac",
+        "type": "heading.default"
+      },
+      {
+        "id": "108d5b88",
+        "type": "heading.default"
+      },
+      {
+        "id": "8026878",
+        "type": "form.default"
+      }
+    ]
+  }
+]

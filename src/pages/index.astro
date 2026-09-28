@@ -3,62 +3,68 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import PreviewContact from '../components/PreviewContact.astro';
 import SiteFooter from '../components/SiteFooter.astro';
 import SiteHeader from '../components/SiteHeader.astro';
+import HeroVideo from '../components/HeroVideo.astro';
+import sourceHome from '../data/source-home.json';
 
-const clientLogos = [1, 3, 4, 5, 6, 7, 8, 9, 10, 11];
+const clientLogos = [
+  { id: 11, name: 'El Nuevo Mundo', shape: 'compact' },
+  { id: 1, name: 'Lilly', shape: 'wide' },
+  { id: 10, name: 'INTCOMEX', shape: 'wide' },
+  { id: 9, name: 'JAPAY', shape: 'compact' },
+  { id: 3, name: 'Western Union', shape: 'wide' },
+  { id: 8, name: 'CIRSA', shape: 'wide' },
+  { id: 7, name: 'Zoetis', shape: 'wide' },
+  { id: 4, name: 'VOLVO', shape: 'wide' },
+  { id: 5, name: 'GSK', shape: 'wide' },
+  { id: 6, name: 'Greenpeace', shape: 'wide' },
+];
 ---
 
 <BaseLayout
-  title="Estenio Corporativo"
-  description="Despacho líder en México, especializado en materia de Seguridad Social. Asesoría experta y estratégica para planear tu retiro, maximizar tu pensión y recuperar fondos de AFORE."
+  title={sourceHome.title}
+  meta={sourceHome.meta}
 >
   <SiteHeader />
   <main>
-    <section class="home-hero" id="inicio">
-      <div class="wrap home-hero-inner">
-        <div>
-          <p class="eyebrow">CORPORATIVO ESTRATÉGICO ESTENIO</p>
-          <h1>El despacho líder en México, especializado en materia de Seguridad Social.</h1>
-          <p class="hero-copy">Fundado hace más de 53 años, Corporativo Estenio se ha consolidado como despacho referente en Seguridad Social, ofreciendo a empresas nacionales e internacionales un servicio de excelencia.</p>
-          <a class="button" href="#servicios">Conoce nuestros servicios</a>
-        </div>
-        <img src="/assets/original/nosotros-img-01.jpg" alt="Instalaciones de Corporativo Estenio" width="600" height="899" fetchpriority="high" />
-      </div>
-    </section>
+    <HeroVideo />
 
     <section class="home-section" id="servicios">
       <div class="wrap">
-        <p class="eyebrow">SERVICIOS</p>
-        <h2>Comprometemos nuestro tiempo, conocimiento y equipo altamente calificado a cada cliente.</h2>
+        <h2>Servicios</h2>
+        <p class="section-intro">Comprometemos nuestro tiempo, conocimiento y equipo altamente calificado a cada cliente.</p>
         <div class="cards four">
-          <article><h3>Auditoría</h3><p>Asesoría especializada y estratégica para prevenir riesgos, corregir inconsistencias y asegurar el cumplimiento en materia de Seguridad Social.</p><a href="/auditoria/">Más información…</a></article>
-          <article><h3>Pensión</h3><p>Asesoría experta y estratégica para planear tu retiro, maximizar tu pensión y recuperar fondos de AFORE, tanto para mexicanos como para extranjeros.</p><a href="/gestor-de-pensiones/">Más información…</a></article>
-          <article><h3>Asesoria INFONAVIT</h3><p>Acompañamiento experto para empresas y trabajadores en la obtención, gestión y recuperación de créditos INFONAVIT, así como en la celebración de convenios, con estrategias claras y efectivas.</p><a href="/asesoria-infonavit/">Más información…</a></article>
-          <article><h3>Servicios Legales</h3><p>Representación estratégica en controversias con IMSS, INFONAVIT y otras autoridades, protegiendo los intereses de nuestros clientes en sede administrativa y judicial.</p><a href="/legal/">Más información…</a></article>
+          <article><img src="/assets/original/auditoria1-scaled.jpg" alt="" width="2560" height="1707" loading="lazy" /><div class="card-copy"><h3>Auditoría</h3><p>Asesoría especializada y estratégica para prevenir riesgos, corregir inconsistencias y asegurar el cumplimiento en materia de Seguridad Social.</p><a href="/auditoria/">Más información…</a></div></article>
+          <article><img src="/assets/original/pensionOptimized.png" alt="" width="800" height="800" loading="lazy" /><div class="card-copy"><h3>Pensión</h3><p>Asesoría experta y estratégica para planear tu retiro, maximizar tu pensión y recuperar fondos de AFORE, tanto para mexicanos como para extranjeros.</p><a href="/pension/">Más información…</a></div></article>
+          <article class="reverse"><img src="/assets/original/infonavit1_.png" alt="" width="800" height="800" loading="lazy" /><div class="card-copy"><h3>Asesoria INFONAVIT</h3><p>Acompañamiento experto para empresas y trabajadores en la obtención, gestión y recuperación de créditos INFONAVIT, así como en la celebración de convenios, con estrategias claras y efectivas.</p><a href="/asesoria-infonavit/">Más información…</a></div></article>
+          <article class="reverse"><img src="/assets/original/legal1.png" alt="" width="800" height="800" loading="lazy" /><div class="card-copy"><h3>Servicios Legales</h3><p>Representación estratégica en controversias con IMSS, INFONAVIT y otras autoridades, protegiendo los intereses de nuestros clientes en sede administrativa y judicial.</p><a href="/legal/">Más información…</a></div></article>
         </div>
       </div>
     </section>
 
-    <section class="home-section dark" id="pensiones">
+    <section class="home-section pension-section" id="pensiones">
       <div class="wrap">
-        <p class="eyebrow">SERVICIOS DE PENSIÓN</p>
+        <h2>SERVICIOS DE PENSIÓN</h2>
         <div class="cards two">
-          <article><h3>Empresarial</h3><p>Ayudamos a tus colaboradores a alcanzar su mejor pensión.</p><p>Mediante un estudio profesional y personalizado, analizamos la situación de cada trabajador para que conozca todas sus opciones, tome decisiones informadas y tenga el acompañamiento necesario.</p><a href="/gestor-de-pensiones/">Más información…</a></article>
-          <article><h3>Personal</h3><p>Logra la pensión que mereces: un retiro claro, sólido y optimizado.</p><p>Nuestro estudio personalizado examina tu historial para ofrecerte un diagnóstico preciso de tu situación actual y mostrarte todas las alternativas disponibles.</p><a href="/gestor-de-pensiones/">Más información…</a></article>
+          <article><img src="/assets/original/img-inicio-02.jpg" alt="" width="1000" height="667" loading="lazy" /><div class="card-copy"><h3>Empresarial</h3><p>Ayudamos a tus colaboradores a alcanzar su mejor pensión.</p><p>Mediante un estudio profesional y personalizado, analizamos la situación de cada trabajador para que conozca todas sus opciones, tome decisiones informadas y tenga el acompañamiento necesario.</p><a href="/pension/">Más información…</a></div></article>
+          <article class="reverse"><img src="/assets/original/pension-img-head-04.jpg" alt="" width="1000" height="667" loading="lazy" /><div class="card-copy"><h3>Personal</h3><p>Logra la pensión que mereces: un retiro claro, sólido y optimizado.</p><p>Nuestro estudio personalizado examina tu historial para ofrecerte un diagnóstico preciso de tu situación actual y mostrarte todas las alternativas disponibles.</p><a href="/pension/">Más información…</a></div></article>
         </div>
       </div>
     </section>
 
     <section class="home-section about" id="nosotros">
-      <div class="wrap about-grid">
-        <div><img src="/assets/original/nosotrosLogo.svg" alt="Corporativo Estenio" width="600" height="600" loading="lazy" /></div>
-        <div><p class="eyebrow">NOSOTROS</p><h2>Somos un despacho vanguardista y con amplia experiencia en asesoría en Seguridad Social en México.</h2><p>Diseño e implementación de soluciones en materia de Seguridad Social, relacionadas con el IMSS, INFONAVIT, AFORE, STPS y otras autoridades.</p><p>Nuestro objetivo es proteger el patrimonio de nuestros clientes, generar ahorros y asegurar el cumplimiento normativo.</p><a class="button secondary" href="/nosotros/">Conócenos</a></div>
+      <div class="wrap">
+        <h2>NOSOTROS</h2>
+        <div class="about-grid">
+          <div class="about-copy"><img class="about-logo" src="/assets/original/nosotrosLogo.svg" alt="Corporativo Estenio" width="260" height="116" loading="lazy" /><p>Somos un despacho vanguardista y con amplia experiencia en asesoría en Seguridad Social en México.</p><p>Diseño e implementación de soluciones en materia de Seguridad Social, relacionadas con el IMSS, INFONAVIT, AFORE, STPS y otras autoridades.</p><p>Nuestro objetivo es proteger el patrimonio de nuestros clientes, generar ahorros y asegurar el cumplimiento normativo.</p></div>
+          <img class="about-photo" src="/assets/original/nosotrosFram.jpeg" alt="" width="1280" height="1600" loading="lazy" />
+        </div>
       </div>
     </section>
 
     <section class="clients home-section">
-      <div class="wrap"><p class="eyebrow">NUESTROS CLIENTES</p><div class="logo-grid">{clientLogos.map((logo) => <img src={`/assets/original/carrusel-logos-${logo}.jpg`} alt="Logo de cliente de Estenio" width="400" height="400" loading="lazy" />)}</div></div>
+      <div class="wrap"><h2>NUESTROS CLIENTES</h2><div class="logo-grid">{clientLogos.map((logo) => <div class={`client-logo ${logo.shape}`}><img src={`/assets/original/carrusel-logos-${logo.id}.jpg`} alt={logo.name} width="400" height="400" loading="lazy" /></div>)}</div></div>
     </section>
-  </main>
   <PreviewContact />
+  </main>
   <SiteFooter />
 </BaseLayout>

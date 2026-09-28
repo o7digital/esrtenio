@@ -1,12 +1,12 @@
 ---
-import { navigation } from '../data/siteContent';
+import { navigation } from '../data/navigation';
 const currentPath = Astro.url.pathname;
 ---
 
 <header class="site-header">
   <div class="header-inner wrap">
     <a class="logo" href="/" aria-label="Estenio Corporativo">
-      <img src="/assets/original/logo-white.png" alt="Estenio" width="200" height="85" />
+      <img src="/assets/original/logo-header.png" alt="Estenio corporativo" width="200" height="85" />
     </a>
     <button class="menu-toggle" type="button" aria-label="Abrir menú" aria-controls="site-nav" aria-expanded="false">
       <span></span><span></span><span></span>
@@ -14,7 +14,7 @@ const currentPath = Astro.url.pathname;
     <nav id="site-nav" class="site-nav" aria-label="Menú principal">
       {navigation.map((item) => (
         item.children ? (
-          <details class="nav-group" open={item.children.some((child) => currentPath === child.href)}>
+          <details class="nav-group">
             <summary>{item.label}</summary>
             <div class="nav-submenu">
               {item.children.map((child) => <a href={child.href} class:list={{ active: currentPath === child.href }}>{child.label}</a>)}
@@ -43,6 +43,14 @@ const currentPath = Astro.url.pathname;
   });
   nav?.querySelectorAll('a').forEach((link) => link.addEventListener('click', close));
   document.addEventListener('keydown', (event) => {
-    if (event.key === 'Escape') { close(); toggle?.focus(); }
+    if (event.key === 'Escape') {
+      const group = document.querySelector<HTMLDetailsElement>('.nav-group[open]');
+      if (group) { group.open = false; group.querySelector<HTMLElement>('summary')?.focus(); }
+      if (nav?.classList.contains('is-open')) { close(); toggle?.focus(); }
+    }
+  });
+  document.addEventListener('click', (event) => {
+    const group = document.querySelector<HTMLDetailsElement>('.nav-group[open]');
+    if (group && event.target instanceof Node && !group.contains(event.target)) group.open = false;
   });
 </script>

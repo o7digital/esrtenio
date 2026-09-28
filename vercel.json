@@ -1,0 +1,8 @@
+{
+  "redirects": [
+    { "source": "/pension/:path*", "destination": "/gestor-de-pensiones/", "statusCode": 301 }
+  ],
+  "headers": [
+    { "source": "/(.*)", "headers": [{ "key": "X-Robots-Tag", "value": "noindex, nofollow" }] }
+  ]
+}

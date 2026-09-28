@@ -1,63 +1,35 @@
 ---
-import type { ContentSection } from '../data/siteContent';
 import PreviewContact from './PreviewContact.astro';
 import SiteFooter from './SiteFooter.astro';
 import SiteHeader from './SiteHeader.astro';
-
-interface Props {
-  page: any;
-}
+import SourceTabs from './SourceTabs.astro';
+interface Props { page: any; }
 const { page } = Astro.props;
-const featureImages: Record<string, { src: string; alt: string }> = {
-  nosotros: { src: '/assets/original/nosotros-img-01.jpg', alt: 'Imagen de la historia de Estenio' },
-  auditoria: { src: '/assets/original/img-auditoria-contribuciones-locales.jpg', alt: 'Imagen original de los servicios de auditoría' },
-  legal: { src: '/assets/original/img-legal-litigio.jpg', alt: 'Imagen original de los servicios legales' },
-  'asesoria-infonavit': { src: '/assets/original/infonavit-img-01.jpg', alt: 'Imagen original de asesoría INFONAVIT' },
-  'gestor-de-pensiones': { src: '/assets/original/pension-img-gonzalo-guerrero.jpg', alt: 'Imagen original de los testimonios de pensión' },
-};
-const featureImage = featureImages[page.path];
 ---
-
 <SiteHeader />
-<main>
+<main id="content">
   <section class="page-hero">
-    <div class="wrap">
-      <p class="eyebrow">CORPORATIVO ESTRATÉGICO ESTENIO</p>
-      <h1>{page.heading}</h1>
-    </div>
+    {page.heroImage && <img class="page-hero-image" src={page.heroImage.src} alt="" fetchpriority="high" />}
+    <div class="wrap"><h1>{page.heading}</h1></div>
   </section>
   <article class="content-page wrap">
-    <div class="content-lead">
-      <div>
-        <p class="eyebrow">{page.leadTitle}</p>
-        {page.leadSubtitle && <p class="lead-subtitle">{page.leadSubtitle}</p>}
-      </div>
-      <div>
-        {page.leadParagraphs.map((paragraph: string) => <p>{paragraph}</p>)}
-      </div>
-    </div>
-
-    {featureImage && <img class="feature-image" src={featureImage.src} alt={featureImage.alt} width="600" height="899" loading="lazy" />}
-
-    <div class="content-sections">
-      {page.sections.map((section: ContentSection, index: number) => (
-        <section class="content-section" id={`section-${index + 1}`}>
-          <h2>{section.title}</h2>
-          {section.paragraphs?.map((paragraph) => <p>{paragraph}</p>)}
-          {section.items && <ul>{section.items.map((item) => <li>{item}</li>)}</ul>}
-        </section>
-      ))}
-    </div>
-
-    {page.team && <section class="content-section team-section"><h2>NUESTRO EQUIPO</h2><div class="team-grid">{page.team.map((member: {name: string; role: string}) => <div class="team-card"><strong>{member.name}</strong><span>{member.role}</span></div>)}</div></section>}
+    <section class:list={['page-intro', { 'with-image': page.introImage }]}>
+      <div><h2>{page.leadTitle}</h2>{page.leadSubtitle && <p class="lead-subtitle">{page.leadSubtitle}</p>}<div class="rich-copy" set:html={page.introHTML} /></div>
+      {page.introImage && <img class="intro-image" src={page.introImage.src} alt={page.introImage.alt} loading="lazy" />}
+    </section>
+    {page.historyImages.length > 0 && <div class="history-images">{page.historyImages.map((image: any) => <img src={image.src} alt={image.alt} loading="lazy" />)}</div>}
+    {page.values.length > 0 && <section class="content-section"><h2>VALORES</h2><div class="rich-copy" set:html={page.valuesIntro} /><div class="values-grid">{page.values.map((value: any) => <article><img src={value.image.src} alt={value.image.alt} loading="lazy" /><h3>{value.title}</h3><div class="rich-copy" set:html={value.html} /></article>)}</div></section>}
+    {page.team.length > 0 && <section class="content-section team-section"><h2>NUESTRO EQUIPO</h2>{page.teamImage && <img class="team-photo" src={page.teamImage.src} alt="" loading="lazy" />}<div class="team-grid">{page.team.map((member: any) => <article class="team-card">{member.image && <img src={member.image.src} alt={member.name} loading="lazy" />}<div><h3>{member.name}</h3><p>{member.role}</p></div></article>)}</div></section>}
     {page.closing && <p class="closing-line">{page.closing}</p>}
-
-    {page.extraSections && <section class="content-section"><h2>{page.extraTitle}</h2><div class="service-list">{page.extraSections.map(([title, text]: [string, string]) => <details><summary>{title}</summary><p>{text}</p></details>)}</div></section>}
-
-    {page.testimonials && <section class="content-section"><h2>TESTIMONIOS</h2><div class="testimonial-grid">{page.testimonials.map(([quote, name, role]: [string, string, string]) => <blockquote><p>{quote}</p><footer><strong>{name}</strong><span>{role}</span></footer></blockquote>)}</div></section>}
-    {page.faq && <section class="content-section"><h2>PREGUNTAS FRECUENTES</h2><div class="faq-list">{page.faq.map(([question, answer]: [string, string]) => <details><summary>{question}</summary><p>{answer}</p></details>)}</div></section>}
-    {page.external && <p class="external-link"><a class="button" href={page.external.href} rel="noreferrer">{page.external.label}</a></p>}
+    {page.tabs.length > 0 && <SourceTabs tabs={page.tabs} />}
+    {page.cards.length > 0 && <section class="content-section"><h2>{page.extraTitle}</h2><div class="service-list">{page.cards.map((card: any) => <details><summary>{card.image && <img src={card.image.src} alt="" loading="lazy" />}<span><strong>{card.frontTitle}</strong><small>{card.frontLabel}</small></span></summary><div class="service-card-body"><h3>{card.title}</h3><div class="rich-copy" set:html={card.html} /></div></details>)}</div></section>}
+    {page.steps.length > 0 && <section class="content-section"><h2>{page.stepTitle}</h2><div class="rich-copy" set:html={page.stepIntro} /><div class="steps-list">{page.steps.map((step: any) => <article><span class="step-number">{step.number}</span><div><h3>{step.title}</h3><div class="rich-copy" set:html={step.html} /></div></article>)}</div></section>}
+    {page.features.length > 0 && <section class="content-section feature-list">{page.features.map((feature: any) => <article>{feature.image && <img src={feature.image.src} alt="" loading="lazy" />}<div><h3>{feature.title}</h3><div class="rich-copy" set:html={feature.html} /></div></article>)}</section>}
+    {page.webinar && <section class="webinar"><img src={page.webinar.image.src} alt={page.webinar.image.alt} loading="lazy" /><h2>{page.webinar.title}</h2><a class="button" href={page.webinar.href}>ASISTIR</a></section>}
+    {page.services.length > 0 && <section class="content-section"><h2>{page.servicesHeading}</h2><div class="services-with-image">{page.servicesImage && <img src={page.servicesImage.src} alt="" loading="lazy" />}<div class="faq-list">{page.services.map((service: any) => <details><summary>{service.title}</summary><div class="rich-copy" set:html={service.html} /></details>)}</div></div></section>}
+    {page.testimonials.length > 0 && <section class="content-section"><h2>TESTIMONIOS</h2><div class="testimonial-grid">{page.testimonials.map((testimonial: any) => <figure><blockquote>{testimonial.quote}</blockquote><figcaption><img src={testimonial.image.src} alt={testimonial.image.alt} loading="lazy" /><div><strong>{testimonial.name}</strong><span>{testimonial.role}</span></div></figcaption></figure>)}</div></section>}
+    {page.faq.length > 0 && <section class="content-section"><h2>PREGUNTAS FRECUENTES</h2><div class="faq-list">{page.faq.map((question: any) => <details><summary>{question.title}</summary><div class="rich-copy" set:html={question.html} /></details>)}</div></section>}
   </article>
-  <PreviewContact />
+  <PreviewContact extra={page.contactExtra} />
 </main>
 <SiteFooter />

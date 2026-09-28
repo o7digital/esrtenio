@@ -1,15 +1,15 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import RichPage from '../components/RichPage.astro';
-import { pageContent, type PageKey } from '../data/siteContent';
+import pages from '../data/source-pages.json';
 
 export function getStaticPaths() {
-  return (Object.keys(pageContent) as PageKey[]).map((key) => ({ params: { slug: pageContent[key].path }, props: { page: pageContent[key] } }));
+  return pages.map((page) => ({ params: { slug: page.path }, props: { page } }));
 }
 
 const { page } = Astro.props;
 ---
 
-<BaseLayout title={page.title} description={page.description}>
+<BaseLayout title={page.title} meta={page.meta}>
   <RichPage page={page} />
 </BaseLayout>

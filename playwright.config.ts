@@ -8,13 +8,13 @@ export default defineConfig({
   fullyParallel: true,
   reporter: 'line',
   use: {
-    baseURL: 'http://127.0.0.1:4321',
+    baseURL: process.env.SITE_TEST_URL || 'http://127.0.0.1:4322',
     browserName: 'chromium',
     ...(existsSync(localChrome) ? { launchOptions: { executablePath: localChrome } } : {}),
   },
-  webServer: {
-    command: 'npm run build && python3 -m http.server 4321 --bind 127.0.0.1 --directory dist',
-    url: 'http://127.0.0.1:4321',
-    reuseExistingServer: true,
+  webServer: process.env.SITE_TEST_URL ? undefined : {
+    command: 'python3 -m http.server 4322 --bind 127.0.0.1 --directory dist',
+    url: 'http://127.0.0.1:4322',
+    reuseExistingServer: false,
   },
 });

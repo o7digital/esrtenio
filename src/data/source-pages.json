@@ -1,0 +1,1384 @@
+[
+  {
+    "path": "nosotros",
+    "title": "Nosotros - Estenio Corporativo",
+    "meta": [
+      {
+        "name": "viewport",
+        "content": "width=device-width, initial-scale=1"
+      },
+      {
+        "name": "robots",
+        "content": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "rel": "canonical",
+        "href": "https://estenio.com.mx/nosotros/"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_ES"
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Nosotros - Estenio Corporativo"
+      },
+      {
+        "property": "og:description",
+        "content": "NOSOTROS NUESTRA HISTORIA CORPORATIVO ESTRATÉGICO ESTENIO Corporativo Estenio es un despacho independiente y especializado en Seguridad Social en México, con más de 50 años de experiencia. Acompañamos a empresas, personas y entidades públicas en auditorías, litigios, procesos de pensión, recuperación de fondos y cumplimiento normativo, diseñando soluciones estratégicas frente a IMSS, INFONAVIT, AFORE, STPS y […]"
+      },
+      {
+        "property": "og:url",
+        "content": "https://estenio.com.mx/nosotros/"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Estenio Corporativo"
+      },
+      {
+        "property": "article:publisher",
+        "content": "https://www.facebook.com/estenioMX/"
+      },
+      {
+        "property": "article:modified_time",
+        "content": "2025-08-16T23:27:11+00:00"
+      },
+      {
+        "property": "og:image",
+        "content": "https://estenio.com.mx/wp-content/uploads/2025/07/nosotros-img-01.jpg"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:label1",
+        "content": "Tiempo de lectura"
+      },
+      {
+        "name": "twitter:data1",
+        "content": "2 minutos"
+      },
+      {
+        "name": "generator",
+        "content": "WordPress 7.1.2"
+      },
+      {
+        "name": "generator",
+        "content": "Site Kit by Google 1.176.0"
+      },
+      {
+        "name": "generator",
+        "content": "Elementor 4.3.2; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap"
+      },
+      {
+        "name": "msapplication-TileImage",
+        "content": "https://estenio.com.mx/wp-content/uploads/2025/04/icono-estenio.png"
+      }
+    ],
+    "heading": "NOSOTROS",
+    "leadTitle": "NUESTRA HISTORIA",
+    "leadSubtitle": "CORPORATIVO ESTRATÉGICO ESTENIO",
+    "introHTML": "<p>Corporativo Estenio es un despacho independiente y especializado en Seguridad Social en México, con más de 50 años de experiencia.</p><p>Acompañamos a empresas, personas y entidades públicas en auditorías, litigios, procesos de pensión, recuperación de fondos y cumplimiento normativo, diseñando soluciones estratégicas frente a IMSS, INFONAVIT, AFORE, STPS y más.</p><p>Trabajamos con ética, confidencialidad y rigor técnico, con la participación directa de nuestros especialistas más experimentados para garantizar resultados sólidos y a la medida.</p>",
+    "tabs": [],
+    "cards": [],
+    "extraTitle": "",
+    "heroImage": null,
+    "historyImages": [
+      {
+        "src": "/assets/original/nosotros-img-01.jpg",
+        "source": "https://estenio.com.mx/wp-content/uploads/2025/07/nosotros-img-01.jpg",
+        "alt": ""
+      },
+      {
+        "src": "/assets/original/nosotros-img-02-481x1024.jpg",
+        "source": "https://estenio.com.mx/wp-content/uploads/2025/07/nosotros-img-02-481x1024.jpg",
+        "alt": ""
+      }
+    ],
+    "values": [
+      {
+        "title": "Integridad",
+        "html": "<p>Honestidad, confianza y transparencia en todo lo que hacemos.</p>",
+        "image": {
+          "src": "/assets/original/integridad-r9c88985pekks6l7ei5nf1x8dzn1mqmvc6c81dyyna.png",
+          "source": "https://estenio.com.mx/wp-content/uploads/elementor/thumbs/integridad-r9c88985pekks6l7ei5nf1x8dzn1mqmvc6c81dyyna.png",
+          "alt": "integridad"
+        }
+      },
+      {
+        "title": "Excelencia",
+        "html": "<p>Buscamos siempre los más altos estándares de calidad.</p>",
+        "image": {
+          "src": "/assets/original/excelencia-r9du4n9z0hy0eow90zrm4kbywzy1nsiq8y7eltfap2.png",
+          "source": "https://estenio.com.mx/wp-content/uploads/elementor/thumbs/excelencia-r9du4n9z0hy0eow90zrm4kbywzy1nsiq8y7eltfap2.png",
+          "alt": "excelencia"
+        }
+      },
+      {
+        "title": "Especialización",
+        "html": "<p>Expertise profundo para resolver retos normativos complejos.</p>",
+        "image": {
+          "src": "/assets/original/especializacion-r9du5mzu8n39korgmummhsy63h42gjrrvudxhezrc6.png",
+          "source": "https://estenio.com.mx/wp-content/uploads/elementor/thumbs/especializacion-r9du5mzu8n39korgmummhsy63h42gjrrvudxhezrc6.png",
+          "alt": "especializacion"
+        }
+      },
+      {
+        "title": "Defensa",
+        "html": "<p>Protegemos a nuestros clientes con estrategias claras y efectivas.</p>",
+        "image": {
+          "src": "/assets/original/defensa-r9du66qg7q1xfonp15qlpoc5yqcp9xmw4kp1x552hy.png",
+          "source": "https://estenio.com.mx/wp-content/uploads/elementor/thumbs/defensa-r9du66qg7q1xfonp15qlpoc5yqcp9xmw4kp1x552hy.png",
+          "alt": "defensa"
+        }
+      },
+      {
+        "title": "Enfoque en el cliente",
+        "html": "<p>Ponemos los intereses de nuestros clientes en primer lugar.</p>",
+        "image": {
+          "src": "/assets/original/enfoque-cliente-r9c9hk252yl2bmsbvl3d34dz1icvllh5we7nogswrq.png",
+          "source": "https://estenio.com.mx/wp-content/uploads/elementor/thumbs/enfoque-cliente-r9c9hk252yl2bmsbvl3d34dz1icvllh5we7nogswrq.png",
+          "alt": "enfoque-cliente"
+        }
+      },
+      {
+        "title": "Compromiso social",
+        "html": "<p>Creemos en la justicia y en proteger lo que las personas han construido.</p>",
+        "image": {
+          "src": "/assets/original/compromiso-social-r9c9fkmenjv9t9o3gq7ptmexw84zcllkakmr7fqtwm.png",
+          "source": "https://estenio.com.mx/wp-content/uploads/elementor/thumbs/compromiso-social-r9c9fkmenjv9t9o3gq7ptmexw84zcllkakmr7fqtwm.png",
+          "alt": "compromiso-social"
+        }
+      },
+      {
+        "title": "Trabajo en equipo",
+        "html": "<p>La colaboración y el respeto mutuo impulsan nuestros resultados.</p>",
+        "image": {
+          "src": "/assets/original/trabajo-equipo-r9du6qh28zydur3eflyilzvkv5vpgm28j7yjkahhpi.png",
+          "source": "https://estenio.com.mx/wp-content/uploads/elementor/thumbs/trabajo-equipo-r9du6qh28zydur3eflyilzvkv5vpgm28j7yjkahhpi.png",
+          "alt": "trabajo-equipo"
+        }
+      },
+      {
+        "title": "Participación activa",
+        "html": "<p>Nos involucramos de principio a fin en cada proyecto.</p>",
+        "image": {
+          "src": "/assets/original/participacion-activa-r9du75ih8ldjd996e2rsrxk7xzla6qgylcu0odpi3q.png",
+          "source": "https://estenio.com.mx/wp-content/uploads/elementor/thumbs/participacion-activa-r9du75ih8ldjd996e2rsrxk7xzla6qgylcu0odpi3q.png",
+          "alt": "participacion-activa"
+        }
+      }
+    ],
+    "team": [
+      {
+        "name": "Jesús Estenio López",
+        "role": "Director General",
+        "image": {
+          "src": "/assets/original/nosotros-jesus-estenio.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/07/nosotros-jesus-estenio.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "name": "Verónica López Madrigal",
+        "role": "Directora General",
+        "image": {
+          "src": "/assets/original/nosotros-veronica-madrigal.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/07/nosotros-veronica-madrigal.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "name": "David Montes",
+        "role": "Auditor Sr.",
+        "image": {
+          "src": "/assets/original/nosotros-david-montes.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/07/nosotros-david-montes.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "name": "Joel Cruz",
+        "role": "Auditor Sr.",
+        "image": {
+          "src": "/assets/original/nosotros-joel-cruz.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/08/nosotros-joel-cruz.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "name": "Alfredo Gutierrez",
+        "role": "Auditor Sr.",
+        "image": {
+          "src": "/assets/original/nosotros-alfredo-gutierrez.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/07/nosotros-alfredo-gutierrez.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "name": "Wendy Huelgas",
+        "role": "Auditora Sr.",
+        "image": {
+          "src": "/assets/original/nosotros-wendy-huelgas.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/07/nosotros-wendy-huelgas.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "name": "Jaime Pacheco",
+        "role": "Auditor Sr.",
+        "image": {
+          "src": "/assets/original/nosotros-jaime-pacheco.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/07/nosotros-jaime-pacheco.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "name": "Nancy Palacios",
+        "role": "Auditora Sr.",
+        "image": {
+          "src": "/assets/original/nosotros-nancy-palacios.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/07/nosotros-nancy-palacios.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "name": "Guadalupe Morales",
+        "role": "Asesora Sr.",
+        "image": {
+          "src": "/assets/original/nosotros-guadalupe-morales.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/07/nosotros-guadalupe-morales.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "name": "Juan Contreras",
+        "role": "Asesor Sr.",
+        "image": {
+          "src": "/assets/original/nosotros-juan-contreras.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/07/nosotros-juan-contreras.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "name": "Alejandro Mendoza",
+        "role": "Auditor Jr.",
+        "image": {
+          "src": "/assets/original/nosotros-jalejandro-mendoza.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/07/nosotros-jalejandro-mendoza.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "name": "Jennifer Guzman",
+        "role": "Auditora Jr.",
+        "image": {
+          "src": "/assets/original/nosotros-jennifer-guzman.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/07/nosotros-jennifer-guzman.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "name": "Roberto Arreola",
+        "role": "Administración Sr.",
+        "image": {
+          "src": "/assets/original/nosotros-roberto-arreola.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/07/nosotros-roberto-arreola.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "name": "Yessenia Hernández",
+        "role": "Administradora Jr.",
+        "image": {
+          "src": "/assets/original/nosotros-yessenia-hernandez.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/07/nosotros-yessenia-hernandez.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "name": "Olga Canto",
+        "role": "Coordinadora",
+        "image": {
+          "src": "/assets/original/nosotros-olga-canto.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/07/nosotros-olga-canto.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "name": "Pablo Ramírez Cervera",
+        "role": "Dir. de Operaciones",
+        "image": {
+          "src": "/assets/original/nosotros-pablo-ramirez.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/07/nosotros-pablo-ramirez.jpg",
+          "alt": ""
+        }
+      }
+    ],
+    "closing": "NUESTRO ÉXITO SE BASA EN LA EXCELENCIA Y LA MEJORA CONTÍNUA",
+    "stepTitle": "",
+    "stepIntro": "",
+    "steps": [],
+    "webinar": null,
+    "servicesHeading": "",
+    "servicesImage": null,
+    "services": [],
+    "features": [],
+    "testimonials": [],
+    "faq": [],
+    "contactExtra": "Te ayudamos a obtener la MEJOR PENSIÓN posible para que puedas retirarte con total tranquilidad.",
+    "valuesIntro": "<p>Para nosotros lo más importante son nuestros clientes, por eso nos regimos alrededor de los siguientes valores.</p>",
+    "teamImage": {
+      "src": "/assets/original/equipo-estenio.jpg",
+      "source": "https://estenio.com.mx/wp-content/uploads/2025/07/equipo-estenio.jpg",
+      "alt": ""
+    }
+  },
+  {
+    "path": "auditoria",
+    "title": "Auditoría - Estenio Corporativo",
+    "meta": [
+      {
+        "name": "viewport",
+        "content": "width=device-width, initial-scale=1"
+      },
+      {
+        "name": "robots",
+        "content": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "rel": "canonical",
+        "href": "https://estenio.com.mx/auditoria/"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_ES"
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Auditoría - Estenio Corporativo"
+      },
+      {
+        "property": "og:description",
+        "content": "AUDITORÍA Servicio de Auditoría Nuestro equipo asesora a empresas de todos los tamaños en la detección, análisis y corrección de riesgos relacionados con el cumplimiento de sus obligaciones en materia de Seguridad Social, generando ahorro y evitando multas. Nuestro enfoque combina auditoría preventiva, para identificar riesgos y oportunidades antes de que se conviertan en contingencias, […]"
+      },
+      {
+        "property": "og:url",
+        "content": "https://estenio.com.mx/auditoria/"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Estenio Corporativo"
+      },
+      {
+        "property": "article:publisher",
+        "content": "https://www.facebook.com/estenioMX/"
+      },
+      {
+        "property": "article:modified_time",
+        "content": "2025-08-30T05:24:12+00:00"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:label1",
+        "content": "Tiempo de lectura"
+      },
+      {
+        "name": "twitter:data1",
+        "content": "17 minutos"
+      },
+      {
+        "name": "generator",
+        "content": "WordPress 7.1.2"
+      },
+      {
+        "name": "generator",
+        "content": "Site Kit by Google 1.176.0"
+      },
+      {
+        "name": "generator",
+        "content": "Elementor 4.3.2; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap"
+      },
+      {
+        "name": "msapplication-TileImage",
+        "content": "https://estenio.com.mx/wp-content/uploads/2025/04/icono-estenio.png"
+      }
+    ],
+    "heading": "AUDITORÍA",
+    "leadTitle": "Servicio de Auditoría",
+    "leadSubtitle": "",
+    "introHTML": "Nuestro equipo asesora a empresas de todos los tamaños en la detección, análisis y corrección de riesgos relacionados con el cumplimiento de sus obligaciones en materia de Seguridad Social, generando ahorro y evitando multas.<br /><br />Nuestro enfoque combina auditoría preventiva, para identificar riesgos y oportunidades antes de que se conviertan en contingencias, y auditoría correctiva, para detectar errores u omisiones y corregirlos antes de que generen multas, adeudos o sanciones legales. <br /><br />Nos comprometemos con cada proyecto mediante una revisión profunda, acompañamiento estratégico recomendaciones accionables que permiten a nuestros clientes operar con certeza jurídica, optimizar recursos y proteger su patrimonio frente a autoridades como el IMSS, INFONAVIT y STPs.",
+    "tabs": [
+      {
+        "label": "Servicio de Auditoría",
+        "id": "tab_incio",
+        "title": "AUDITORÍA",
+        "html": "Nuestro equipo asesora a empresas de todos los tamaños en la detección, análisis y corrección de riesgos relacionados con el cumplimiento de sus obligaciones en materia de Seguridad Social.<br /><br />Nuestro enfoque combina auditoría preventiva, para identificar riesgos y oportunidades antes de que se conviertan en contingencias, y auditoría correctiva, para detectar errores u omisiones y corregirlos antes de que generen multas, adeudos o sanciones legales. <br /><br />Nos comprometemos con cada proyecto mediante una revisión profunda, acompañamiento estratégico recomendaciones accionables que permiten a nuestros clientes operar con certeza jurídica, optimizar recursos y proteger su patrimonio frente a autoridades como el IMSS, INFONAVIT y STPs.",
+        "image": null
+      },
+      {
+        "label": "Dictamen INFONAVIT",
+        "id": "dictamenInfonavit",
+        "title": "Dictamen INFONAVIT",
+        "html": "Aseguramos el cumplimiento mensual de\ntus obligaciones patronales mediante un\nservicio de revisión continua y\npersonalizada.<br /><br />\nVerificamos los pagos realizados al IMSS\ne INFONAVIT, analizamos movimientos\nafiliatorios y detectamos a tiempo\ncualquier anomalía que pueda derivar en\nmultas o recargos.<br /><br />\nNuestro acompañamiento evita\ndesviaciones y fortalece el control interno\nde tu empresa en Seguridad Social.",
+        "image": null
+      },
+      {
+        "label": "Dictamen IMSS",
+        "id": "tab_imss",
+        "title": "Dictamen IMSS",
+        "html": "Elaboramos el Dictamen del IMSS tanto\npara empresas obligadas como para\naquellas que desean mayor certeza en\nsu cumplimiento.<br /><br />\nNuestro servicio incluye la revisión\nexhaustiva de la determinación de\ncuotas, salarios base de cotización,\nintegración de percepciones y registros\npatronales, así como la presentación\nformal del dictamen ante la autoridad.\n<br /><br />\nEl dictamen es una herramienta\npoderosa para demostrar cumplimiento,\nfacilitar auditorías y reducir riesgos\nfuturos",
+        "image": null
+      },
+      {
+        "label": "Asesoría en Construcción (SIROC)",
+        "id": "tab_siroc",
+        "title": "Asesoría en Construcción (SIROC)",
+        "html": "Apoyamos a empresas constructoras y\ndesarrolladoras en el cumplimiento de\nsus obligaciones ante el IMSS,\nespecíficamente en lo relacionado con el\nSIROC (Servicio Integral de Registro de\nObras de Construcción).<br /><br />\nGestionamos el registro y seguimiento\nde obras, asegurando que cada contrato\nesté debidamente reportado y cumpla\ncon los requisitos normativos.<br /><br />\nEvita sanciones por omisiones en el\nregistro, errores en los datos o\nsubestimación de mano de obra:\nnosotros te cubrimos.",
+        "image": null
+      },
+      {
+        "label": "Dictamen por Contribuciones Locales",
+        "id": "tab_contribuciones",
+        "title": "Dictamen por Contribuciones Locales",
+        "html": "Ayudamos a tu empresa a cumplir\ncorrectamente con sus contribuciones\nlocales en materia de Seguridad Social,\nevitando errores que pueden derivar en\nrecargos, multas o auditorías fiscales.\nElaboramos dictámenes que acreditan el\ncumplimiento ante autoridades locales,\nvalidando aspectos como nómina\ngravable, pagos a institutos estatales y\ncontribuciones por servicios\nprofesionales.<br /><br />\nEs un respaldo técnico que brinda\ntranquilidad y facilita auditorías de entes\nlocales como institutos de salud o\npensiones estatales.",
+        "image": null
+      }
+    ],
+    "cards": [
+      {
+        "title": "Auditoría Preventiva",
+        "frontTitle": "Auditoría Preventiva",
+        "frontLabel": "Más información",
+        "html": "Evaluamos el cumplimiento normativo de tu empresa en materia de Seguridad Social antes de que lleguen las sanciones. Nuestra auditoría preventiva permite identificar riesgos ocultos y áreas de mejora en el cumplimiento de tus obligaciones con IMSS, INFONAVIT, AFORE y más. Nuestro enfoque es anticiparnos a cualquier contingencia legal o financiera, proponiendo soluciones prácticas para corregir desviaciones antes de que se conviertan en problemas.",
+        "image": {
+          "src": "/assets/original/card_auditoria_preventiva-1.png",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/07/card_auditoria_preventiva-1.png",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Diagnóstico Integral",
+        "frontTitle": "Diagnóstico Integral",
+        "frontLabel": "Más información",
+        "html": "Realizamos un análisis completo de la situación de tu empresa en Seguridad Social, desde cuotas y aportaciones hasta registros patronales y clasificación de riesgos.<br />\nNuestro diagnóstico abarca IMSS,INFONAVIT, AFORE y otras obligaciones conexas, permitiéndonos identificar riesgos, deficiencias operativas y áreas de oportunidad. Es el punto de partida ideal para quienes buscan ordenar su cumplimiento y tomar decisiones con información clara.",
+        "image": {
+          "src": "/assets/original/card_diagnostico_integral.png",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/07/card_diagnostico_integral.png",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Supervisión Mensual de Pagos al IMSS e INFONAVIT",
+        "frontTitle": "Supervisión Mensual de Pagos al IMSS e INFONAVIT",
+        "frontLabel": "Más información",
+        "html": "Aseguramos el cumplimiento mensual detus obligaciones patronales mediante un servicio de revisión continua y personalizada.<br />\nVerificamos los pagos realizados al IMSS e INFONAVIT, analizamos movimientos afiliatorios y detectamos a tiempo cualquier anomalía que pueda derivar en multas o recargos.<br />\nNuestro acompañamiento evita desviaciones y fortalece el control interno de tu empresa en Seguridad Social.",
+        "image": {
+          "src": "/assets/original/img-auditoria-supervicion-pagos.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/08/img-auditoria-supervicion-pagos.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Elaboración y revisión mensual de pagos al IMSS e INFONAVIT",
+        "frontTitle": "Elaboración y revisión mensual de pagos al IMSS e INFONAVIT",
+        "frontLabel": "Más información",
+        "html": "Vamos más allá de la supervisión: asumimos la responsabilidad operativa de generar, validar y presentar tus obligaciones ante el IMSS e INFONAVIT cada mes. <br />Nos encargamos directamente del cálculo de cuotas, generación de líneas de captura, presentación de avisos y seguimiento de cualquier observación de las autoridades.<br /> Todo bajo criterios de precisión, cumplimiento normativo y eficiencia operativa para que tu empresa no incurra en errores que le cuesten caro.",
+        "image": {
+          "src": "/assets/original/img-auditoria-pagos-imss.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/08/img-auditoria-pagos-imss.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Dictamen IMSS",
+        "frontTitle": "Dictamen IMSS",
+        "frontLabel": "Más información",
+        "html": "Elaboramos el Dictamen del IMSS tanto para empresas obligadas como para aquellas que desean mayor certeza en su cumplimiento. <br />Nuestro servicio incluye la revisión exhaustiva de la determinación de cuotas, salarios base de cotización, integración de percepciones y registros patronales, así como la presentación formal del dictamen ante la autoridad. <br />El dictamen es una herramienta poderosa para demostrar cumplimiento, facilitar auditorías y reducir riesgos futuros.",
+        "image": {
+          "src": "/assets/original/img-auditoria-dictamen-imss.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/08/img-auditoria-dictamen-imss.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Dictamen INFONAVIT",
+        "frontTitle": "Dictamen INFONAVIT",
+        "frontLabel": "Más información",
+        "html": "Revisamos, certificamos y dictaminamos el cumplimiento de tus obligaciones ante el INFONAVIT, garantizando la adecuada integración y pago de aportaciones.<br />\nMediante este servicio, las empresas pueden acreditar que han cumplido conforme a derecho y reducir significativamente el riesgo de auditorías, créditos fiscales y sanciones.<br />\nNuestro equipo técnico valida cada componente de tus reportes y se encarga del proceso de dictaminación de principio a fin.",
+        "image": {
+          "src": "/assets/original/img-auditoria-infonavit.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/08/img-auditoria-infonavit.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Dictamen por Contribuciones Locales",
+        "frontTitle": "Dictamen por Contribuciones Locales",
+        "frontLabel": "Más información",
+        "html": "Ayudamos a tu empresa a cumplir correctamente con sus contribuciones locales en materia de Seguridad Social, evitando errores que pueden derivar en recargos, multas o auditorías fiscales. <br />Elaboramos dictámenes que acreditan el cumplimiento ante autoridades locales, validando aspectos como nómina gravable, pagos a institutos estatales y contribuciones por servicios profesionales. <br />Es un respaldo técnico que brinda tranquilidad y facilita auditorías de entes locales como institutos de salud o pensiones estatales.",
+        "image": {
+          "src": "/assets/original/img-auditoria-contribuciones-locales.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/08/img-auditoria-contribuciones-locales.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Asesoría en Construcción (SIROC)",
+        "frontTitle": "Asesoría en Construcción (SIROC)",
+        "frontLabel": "Más información",
+        "html": "Apoyamos a empresas constructoras y desarrolladoras en el cumplimiento de sus obligaciones ante el IMSS, específicamente en lo relacionado con el SIROC (Servicio Integral de Registro de Obras de Construcción). <br />Gestionamos el registro y seguimiento de obras, asegurando que cada contrato esté debidamente reportado y cumpla con los requisitos normativos. <br />Evita sanciones por omisiones en el registro, errores en los datos o subestimación de mano de obra: nosotros te cubrimos.",
+        "image": {
+          "src": "/assets/original/img-auditoria-siroc.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/08/img-auditoria-siroc.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Subcontratación de Servicios Especializados",
+        "frontTitle": "Subcontratación de Servicios Especializados",
+        "frontLabel": "Más información",
+        "html": "Brindamos asesoría técnica y legal para garantizar que tus esquemas de subcontratación cumplan con la legislación vigente en Seguridad Social, incluyendo las reformas recientes en materia laboral.<br />\nRevisamos tus contratos, registros ante el IMSS y obligaciones fiscales, detectando riesgos y proponiendo ajustes.<br />\nNos aseguramos de que cada proveedor cumpla con los requisitos REPSE y que tu empresa esté blindada frente a auditorías o sanciones por uso indebido de servicios especializados.",
+        "image": {
+          "src": "/assets/original/img-auditoria-subcontratacion-sevicios.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/08/img-auditoria-subcontratacion-sevicios.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Análisis de Prima de Riesgo de Trabajo",
+        "frontTitle": "Análisis de Prima de Riesgo de Trabajo",
+        "frontLabel": "Más información",
+        "html": "Calculamos, revisamos y optimizamos la prima de riesgo de trabajo de tu empresa ante el IMSS, asegurando que refleje fielmente la siniestralidad real y no pagues de más.<br /> Un análisis técnico bien hecho puede representar un ahorro importante en tus cuotas obrero-patronales. <br />Además, auditamos los registros de accidentes, incapacidades y clasificaciones para que todo esté en orden y se maximice la eficiencia del seguro de riesgos de trabajo.",
+        "image": {
+          "src": "/assets/original/img-auditoria-riesgo-trabajo.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/08/img-auditoria-riesgo-trabajo.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Registro y Cumplimiento REPSE",
+        "frontTitle": "Registro y Cumplimiento REPSE",
+        "frontLabel": "Más información",
+        "html": "Acompañamos a empresas prestadoras de servicios especializados en todo el proceso de inscripción y cumplimiento ante el REPSE (Registro de Prestadoras de Servicios Especializados u Obras Especializadas). <br />Nos encargamos de revisar los requisitos, preparar la documentación, cargar la información y gestionar la obtención o actualización del registro.<br /> También evaluamos contratos y obligaciones correlacionadas para asegurar que tu operación sea completamente legal y auditable.",
+        "image": {
+          "src": "/assets/original/img-auditoria-repse.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/08/img-auditoria-repse.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Diagnóstico y Estrategia de Corrección",
+        "frontTitle": "Diagnóstico y Estrategia de Corrección",
+        "frontLabel": "Más información",
+        "html": "Identificamos irregularidades en el cumplimiento de tus obligaciones en materia de Seguridad Social y diseñamos una estrategia a la medida para corregirlas.<br /> Nuestro equipo técnico revisa a profundidad los registros patronales, pagos realizados, movimientos afiliatorios y cualquier otro componente que pudiera estar generando riesgos. <br />Apartir del diagnóstico, proponemos acciones concretas: desde regularizar pagos hasta implementar controles internos que prevengan futuros errores. <br />Todo bajo un enfoque estratégico, realista y orientado a resultados.",
+        "image": {
+          "src": "/assets/original/img-auditoria-correccion.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/08/img-auditoria-correccion.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Auditoría Correctiva",
+        "frontTitle": "Auditoría Correctiva",
+        "frontLabel": "Más información",
+        "html": "Cuando ya existen errores u omisiones en tu cumplimiento de Seguridad Social, actuamos rápido con una auditoría correctiva especializada.<br />\nAnalizamos a fondo tu situación actual, detectamos fallas técnicas y administrativas, y diseñamos un plan de acción para corregirlas sin agravar la situación.<br />\nEs el paso esencial para evitar sanciones mayores, aclarar inconsistencias ante las autoridades y reconstruir tu cumplimiento desde una base sólida.",
+        "image": {
+          "src": "/assets/original/img-auditoria-correctiva.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/08/img-auditoria-correctiva.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Recuperación de Pagos en Demasía",
+        "frontTitle": "Recuperación de Pagos en Demasía",
+        "frontLabel": "Más información",
+        "html": "Ayudamos a tu empresa a recuperar lo spagos en exceso que haya realizado al IMSS o al INFONAVIT por errores en cuotas, integración de salario o cálculos de riesgo.<br /> Nuestro equipo identifica inconsistencias, valida los saldos a favor y gestiona directamente el trámite ante las autoridades para que los recursos regresen a tu flujo de efectivo. <br />También damos seguimiento continuo hasta lograr la devolución o compensación efectiva.",
+        "image": {
+          "src": "/assets/original/img-auditoria-recuperacion-pagos.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/08/img-auditoria-recuperacion-pagos.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Litigio en Materia IMSS",
+        "frontTitle": "Litigio en Materia IMSS",
+        "frontLabel": "Más información",
+        "html": "Defendemos a tu empresa en controversias legales relacionadas con el IMSS, ya sea por multas, créditos fiscales, diferencias en cuotas o actos de fiscalización.<br />\nContamos con abogados especialistas en Seguridad Social que estructuran una defensa estratégica basada en evidencia, precedentes y conocimiento normativo profundo.<br />\nNuestro enfoque es minimizar el impacto operativo y financiero de una resolución desfavorable, maximizando tus probabilidades de éxito legal.",
+        "image": {
+          "src": "/assets/original/img-auditoria-litigio-imss.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/08/img-auditoria-litigio-imss.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Corrección Patronal",
+        "frontTitle": "Corrección Patronal",
+        "frontLabel": "Más información",
+        "html": "Regularizamos inconsistencias en los registros patronales ante el IMSS, INFONAVIT y AFORE, asegurando que tu empresa esté correctamente reportada y sin riesgos de sanción.<br /> Esto incluye la corrección de salarios, fechas de alta o baja, nombres, registros duplicados y demás elementos que pueden generar diferencias, adeudos o rechazos en trámites. <br />Actuamos con base en evidencia documental y procesos auditables que aseguren la validación de cada cambio.",
+        "image": {
+          "src": "/assets/original/img-auditoria-correccion-patronal.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/08/img-auditoria-correccion-patronal.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Estrategia de Corrección Ad Hoc",
+        "frontTitle": "Estrategia de Corrección Ad Hoc",
+        "frontLabel": "Más información",
+        "html": "Desarrollamos soluciones personalizadas para resolver situaciones atípicas o complejas en materia de Seguridad Social. <br />Ya sea una auditoría inminente, un crédito fiscal injustificado, un cambio masivo en el esquema de contratación o cualquier otro escenario, diseñamos e implementamos un plan de acción adaptado a las necesidades de tu empresa. <br />Aquí no aplicamos fórmulas genéricas: cada estrategia parte de un análisis técnico y legal detallado para asegurar el cumplimiento total y sostenible.",
+        "image": {
+          "src": "/assets/original/img-auditoria-correccion-adhoc.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/08/img-auditoria-correccion-adhoc.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "NOM-035-STPS",
+        "frontTitle": "NOM-035-STPS",
+        "frontLabel": "Más información",
+        "html": "Acompañamos a las empresas en el cumplimiento integral de la NOM-035-STPS, desde el diagnóstico hasta la implementación de medidas preventivas y correctivas.<br />\nAplicamos las guías oficiales (I, II y III), analizamos los resultados, capacitamos al personal y diseñamos protocolos internos alineados a la norma.<br />\nTambién entregamos reportes listos para inspección y ofrecemos herramientas digitales que automatizan el levantamiento, análisis e interpretación de datos, asegurando eficiencia y cumplimiento normativo.",
+        "image": {
+          "src": "/assets/original/img-auditoria-nom-035.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/08/img-auditoria-nom-035.jpg",
+          "alt": ""
+        }
+      }
+    ],
+    "extraTitle": "MÁS SERVICIOS DE AUDITORÍA",
+    "heroImage": {
+      "src": "/assets/original/auditoria-img-head.jpg",
+      "source": "https://estenio.com.mx/wp-content/uploads/2025/08/auditoria-img-head.jpg",
+      "alt": ""
+    },
+    "historyImages": [],
+    "values": [],
+    "team": [],
+    "closing": "",
+    "stepTitle": "",
+    "stepIntro": "",
+    "steps": [],
+    "webinar": null,
+    "servicesHeading": "",
+    "servicesImage": null,
+    "services": [],
+    "features": [],
+    "testimonials": [],
+    "faq": [],
+    "contactExtra": ""
+  },
+  {
+    "path": "legal",
+    "title": "Representación legal - Estenio Corporativo",
+    "meta": [
+      {
+        "name": "viewport",
+        "content": "width=device-width, initial-scale=1"
+      },
+      {
+        "name": "robots",
+        "content": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "description",
+        "content": "Representación legal ante actos del IMSS e INFONAVIT que afectan los derechos o el patrimonio de nuestros clientes."
+      },
+      {
+        "rel": "canonical",
+        "href": "https://estenio.com.mx/legal/"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_ES"
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Representación legal - Estenio Corporativo"
+      },
+      {
+        "property": "og:description",
+        "content": "Representación legal ante actos del IMSS e INFONAVIT que afectan los derechos o el patrimonio de nuestros clientes."
+      },
+      {
+        "property": "og:url",
+        "content": "https://estenio.com.mx/legal/"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Estenio Corporativo"
+      },
+      {
+        "property": "article:publisher",
+        "content": "https://www.facebook.com/estenioMX/"
+      },
+      {
+        "property": "article:modified_time",
+        "content": "2026-02-05T22:39:08+00:00"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:label1",
+        "content": "Tiempo de lectura"
+      },
+      {
+        "name": "twitter:data1",
+        "content": "4 minutos"
+      },
+      {
+        "name": "generator",
+        "content": "WordPress 7.1.2"
+      },
+      {
+        "name": "generator",
+        "content": "Site Kit by Google 1.176.0"
+      },
+      {
+        "name": "generator",
+        "content": "Elementor 4.3.2; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap"
+      },
+      {
+        "name": "msapplication-TileImage",
+        "content": "https://estenio.com.mx/wp-content/uploads/2025/04/icono-estenio.png"
+      }
+    ],
+    "heading": "LEGAL",
+    "leadTitle": "Representación legal",
+    "leadSubtitle": "",
+    "introHTML": "Representación legal ante actos del IMSS e INFONAVIT que afectan los derechos o el patrimonio de nuestros clientes. \n<br />\nAtendemos recursos, juicios de nulidad y amparos por créditos indebidos, ajustes en cuotas, multas, negativas de devolución, diferencias en auditorías y otros actos de autoridad.\n<br />\nTambién negociamos convenios de pago y facilidades que permitan cumplir sin comprometer la operación de la empresa.​",
+    "tabs": [
+      {
+        "label": "Representación legal",
+        "id": "tab_incio",
+        "title": "Representación legal especializada",
+        "html": "Representación legal ante actos del IMSS e INFONAVIT que afectan los derechos o el patrimonio de nuestros clientes. <br /><br />\nAtendemos recursos, juicios de nulidad y amparos por créditos indebidos, ajustes en cuotas, multas, negativas de devolución, diferencias en auditorías y otros actos de autoridad.<br /><br />\nTambién negociamos convenios de pago y facilidades que permitan cumplir sin comprometer la operación de la empresa.",
+        "image": null
+      },
+      {
+        "label": "Litigio en Materia de Seguridad Social",
+        "id": "dictamenInfonavit",
+        "title": "Litigio en Materia de Seguridad Social",
+        "html": "Representamos legalmente a empresas y\npersonas físicas en juicios, recursos y\namparos contra actos del IMSS e INFONAVIT que afecten sus derechos o patrimonio.<br /><br />\nNuestros abogados especializados en\nSeguridad Social impugnan resoluciones\narbitrarias, sanciones indebidas, determinaciones erróneas y otros actos\nde autoridad que requieren defensa\ntécnica y estratégica. <br /><br />\nAcompañamos todo el proceso jurídico\nhasta agotar las instancias necesarias\npara proteger tus intereses.",
+        "image": null
+      },
+      {
+        "label": "Atención de multas por omisión de cumplimiento y obligaciones patronales",
+        "id": "tab_imss",
+        "title": "Atención de multas por omisión de cumplimiento y obligaciones patronales",
+        "html": "Defendemos a empleadores que han sido\nsancionados por no registrar correctamente a sus trabajadores ante el IMSS, ya sea por omisión, clasificación errónea o diferencias detectadas.<br />\nImpugnamos las multas con argumentos\nlegales, técnicos y de fondo, buscando su\ncancelación, reducción o la reconfiguración del acto administrativo.",
+        "image": null
+      },
+      {
+        "label": "Trámites de Devoluciones oAclaraciones ante el IMSS",
+        "id": "tab_siroc",
+        "title": "Trámites de Devoluciones o Aclaraciones ante el IMSS",
+        "html": "Promovemos los recursos y medios\nlegales correspondientes cuando el IMSS\nniega injustificadamente una devolución\no no responde a una solicitud de\naclaración.<br /><br />\nDefendemos el derecho del\ncontribuyente a obtener respuesta\noportuna y a recuperar recursos\nretenidos indebidamente.",
+        "image": null
+      },
+      {
+        "label": "Apoyo en Casos de Embargos o Congelamiento de Cuentas",
+        "id": "tab_contribuciones",
+        "title": "Apoyo en Casos de Embargos o Congelamiento de Cuentas",
+        "html": "Brindamos defensa legal y\nacompañamiento técnico a empresas y\npersonas físicas ante actos de ejecución\ncomo embargos, congelamiento de\ncuentas o requerimientos de pago\ninmediato por parte del IMSS o\nINFONAVIT.<br /><br />\nActuamos rápidamente para detener\nlos efectos y negociar soluciones\nviables.",
+        "image": null
+      }
+    ],
+    "cards": [
+      {
+        "title": "Negociación de Convenios ante el IMSS e INFONAVIT",
+        "frontTitle": "Negociación de Convenios ante el IMSS e INFONAVIT",
+        "frontLabel": "Más información",
+        "html": "Gestionamos convenios de pago en parcialidades, diferimientos y prórrogas con el IMSS e INFONAVIT para que nuestros clientes puedan cumplir con sus obligaciones sin poner en riesgo su liquidez.<br />\nNuestro equipo técnico y jurídico asesora en la preparación de la documentación, simulación de escenarios de pago y negociación directa con las autoridades.",
+        "image": {
+          "src": "/assets/original/img-legal-negociacion-contratos.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/07/img-legal-negociacion-contratos.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Litigio en Materia de Seguridad Social",
+        "frontTitle": "Litigio en Materia de Seguridad Social",
+        "frontLabel": "Más información",
+        "html": "Representamos legalmente a empresas y personas físicas en juicios, recursos y amparos contra actos del IMSS e INFONAVIT que afecten sus derechos o patrimonio. <br />Nuestros abogados especializados en Seguridad Social impugnan resoluciones arbitrarias, sanciones indebidas, determinaciones erróneas y otros actos de autoridad que requieren defensa técnica y estratégica. <br />Acompañamos todo el proceso jurídico para proteger tus intereses.",
+        "image": {
+          "src": "/assets/original/img-legal-litigio.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/07/img-legal-litigio.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Multas por Omisión en Inscripción de Trabajadores",
+        "frontTitle": "Multas por Omisión en Inscripción de Trabajadores",
+        "frontLabel": "Más información",
+        "html": "Defendemos a empleadores que han sido sancionados por no registrar correctamente a sus trabajadores ante el IMSS, ya sea por omisión, clasificación errónea o diferencias detectadas.<br />\nImpugnamos las multas con argumentos legales, técnicos y de fondo, buscando su cancelación, reducción o la reconfiguración del acto administrativo.",
+        "image": {
+          "src": "/assets/original/img-legal-multas-omision.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/08/img-legal-multas-omision.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Ajustes Indebidos en Cuotas Obrero-Patronales",
+        "frontTitle": "Ajustes Indebidos en Cuotas Obrero-Patronales",
+        "frontLabel": "Más información",
+        "html": "Impugnamos legalmente ajustes unilaterales realizados por el IMSS que modifican la base de cálculo de las cuotas obrero-patronales sin justificación técnica. <br />Nuestro equipo analiza el caso, revisa el sustento normativo y promueve el medio de defensa correspondiente para corregir y revertir el ajuste.",
+        "image": {
+          "src": "/assets/original/img-legal-ajustes-cuotas.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/08/img-legal-ajustes-cuotas.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Créditos INFONAVIT no Reconocidos",
+        "frontTitle": "Créditos INFONAVIT no Reconocidos",
+        "frontLabel": "Más información",
+        "html": "Asesoramos a empresas y personas físicas cuando el INFONAVIT notifica la existencia de créditos que no corresponden o que fueron mal registrados.<br /> Investigamos el origen del crédito,promovemos su cancelación o corrección y damos seguimiento hasta que se actualicen los sistemas institucionales.",
+        "image": {
+          "src": "/assets/original/img-legal-credito-infonavit.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/08/img-legal-credito-infonavit.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Adeudos por Diferencias Detectadas en Auditoría",
+        "frontTitle": "Adeudos por Diferencias Detectadas en Auditoría",
+        "frontLabel": "Más información",
+        "html": "Revisamos y combatimos legalmente las diferencias determinadas por el IMSS o INFONAVIT tras visitas domiciliarias, revisiones de gabinete o auditorías.<br />\nAnalizamos la legalidad del procedimiento y la validez del cálculo para impugnar los créditos fiscales determinados.",
+        "image": {
+          "src": "/assets/original/img-legal-adeudos-auditoria.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/08/img-legal-adeudos-auditoria.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Negativas en Devoluciones o Aclaraciones ante el IMSS",
+        "frontTitle": "Negativas en Devoluciones o Aclaraciones ante el IMSS",
+        "frontLabel": "Más información",
+        "html": "Promovemos los recursos y medios legales correspondientes cuando el IMSS niega injustificadamente una devolución o no responde a una solicitud de aclaración.<br />Defendemos el derecho del contribuyente a obtener respuesta oportuna y a recuperar recursos retenidos indebidamente.",
+        "image": {
+          "src": "/assets/original/img-auditoria-pagos-imss.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/08/img-auditoria-pagos-imss.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Recuperación de Semanas Cotizadas no Reconocidas",
+        "frontTitle": "Recuperación de Semanas Cotizadas no Reconocidas",
+        "frontLabel": "Más información",
+        "html": "Asistimos a los trabajadores en la localización y validación de semanas cotizadas que no aparecen reflejadas en su historial ante el IMSS. <br />Esto incluye trámites ante AFORE, patrones anteriores y conciliación de registros para garantizar un conteo correcto para efectos de pensión.",
+        "image": {
+          "src": "/assets/original/card_auditoria_preventiva.png",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/07/card_auditoria_preventiva.png",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Corrección de Datos en NSS, RFC y CURP",
+        "frontTitle": "Corrección de Datos en NSS, RFC y CURP",
+        "frontLabel": "Más información",
+        "html": "Gestionamos la corrección de errores en el Número de Seguridad Social, RFC o CURP ante el IMSS e INFONAVIT, evitando conflictos en trámites, registros o acreditación de derechos. <br />Nuestro servicio asegura que los datos sean consistentes y estén correctamente actualizados en todas las plataformas.",
+        "image": {
+          "src": "/assets/original/img-legal-correccion-datos.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/08/img-legal-correccion-datos.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Trámites ante Órganos Internos de Resolución de Controversias INFONAVIT",
+        "frontTitle": "Trámites ante Órganos Internos de Resolución de Controversias INFONAVIT",
+        "frontLabel": "Más información",
+        "html": "Representamos a nuestros clientes ante los órganos internos del INFONAVIT para resolver controversias relacionadas con créditos, adeudos, aclaraciones o negativa de derechos. Elaboramos escritos, gestionamos audiencias y negociamos resoluciones favorables con sustento técnico y jurídico.",
+        "image": {
+          "src": "/assets/original/img-legal-controversias-infonavit.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/08/img-legal-controversias-infonavit.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Apoyo en Casos de Ejecución Forzosa, Embargos o Congelamiento de Cuentas",
+        "frontTitle": "Apoyo en Casos de Ejecución Forzosa, Embargos o Congelamiento de Cuentas",
+        "frontLabel": "Más información",
+        "html": "Brindamos defensa legal y acompañamiento técnico a empresas y personas físicas ante actos de ejecución como embargos, congelamiento de cuentas o requerimientos de pago inmediato por parte del IMSS o INFONAVIT. Actuamos rápidamente para detenerlos efectos y negociar soluciones viables.",
+        "image": {
+          "src": "/assets/original/img-legal-embargos.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/08/img-legal-embargos.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Capacitación y Acompañamiento Preventivo en Cumplimiento Patronal",
+        "frontTitle": "Capacitación y Acompañamiento Preventivo en Cumplimiento Patronal",
+        "frontLabel": "Más información",
+        "html": "Capacitamos a equipos de recursos humanos, contabilidad y jurídico en el cumplimiento normativo de Seguridad Social para prevenir errores y contingencias.<br />\nDiseñamos planes de cumplimiento, manuales internos y protocolos de revisión que fortalecen el control interno de la empresa.",
+        "image": {
+          "src": "/assets/original/img-auditoria-correccion-patronal.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/08/img-auditoria-correccion-patronal.jpg",
+          "alt": ""
+        }
+      }
+    ],
+    "extraTitle": "MÁS SERVICIOS LEGALES",
+    "heroImage": {
+      "src": "/assets/original/legal-img-head-02.jpg",
+      "source": "https://estenio.com.mx/wp-content/uploads/2025/08/legal-img-head-02.jpg",
+      "alt": ""
+    },
+    "historyImages": [],
+    "values": [],
+    "team": [],
+    "closing": "",
+    "stepTitle": "",
+    "stepIntro": "",
+    "steps": [],
+    "webinar": null,
+    "servicesHeading": "",
+    "servicesImage": null,
+    "services": [],
+    "features": [],
+    "testimonials": [],
+    "faq": [],
+    "contactExtra": ""
+  },
+  {
+    "path": "asesoria-infonavit",
+    "title": "asesoria-infonavit - Estenio Corporativo",
+    "meta": [
+      {
+        "name": "viewport",
+        "content": "width=device-width, initial-scale=1"
+      },
+      {
+        "name": "robots",
+        "content": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "rel": "canonical",
+        "href": "https://estenio.com.mx/asesoria-infonavit/"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_ES"
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "asesoria-infonavit - Estenio Corporativo"
+      },
+      {
+        "property": "og:description",
+        "content": "ASESORÍA INFONAVIT ASESORÍA INFONAVIT Brindamos asesoría integral en materia de INFONAVIT para empresas, trabajadores y sindicatos, con el objetivo de maximizar beneficios, prevenir riesgos y garantizar un cumplimiento claro y eficiente. Apoyamos a empleadores en la regularización de aportaciones, gestión de créditos, celebración de convenios y atención de requerimientos. Acompañamos a trabajadores en la obtención, […]"
+      },
+      {
+        "property": "og:url",
+        "content": "https://estenio.com.mx/asesoria-infonavit/"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Estenio Corporativo"
+      },
+      {
+        "property": "article:publisher",
+        "content": "https://www.facebook.com/estenioMX/"
+      },
+      {
+        "property": "article:modified_time",
+        "content": "2025-08-16T23:06:21+00:00"
+      },
+      {
+        "property": "og:image",
+        "content": "https://estenio.com.mx/wp-content/uploads/2025/07/infonavit-img-01-1.jpg"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:label1",
+        "content": "Tiempo de lectura"
+      },
+      {
+        "name": "twitter:data1",
+        "content": "4 minutos"
+      },
+      {
+        "name": "generator",
+        "content": "WordPress 7.1.2"
+      },
+      {
+        "name": "generator",
+        "content": "Site Kit by Google 1.176.0"
+      },
+      {
+        "name": "generator",
+        "content": "Elementor 4.3.2; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap"
+      },
+      {
+        "name": "msapplication-TileImage",
+        "content": "https://estenio.com.mx/wp-content/uploads/2025/04/icono-estenio.png"
+      }
+    ],
+    "heading": "ASESORÍA INFONAVIT",
+    "leadTitle": "ASESORÍA INFONAVIT",
+    "leadSubtitle": "",
+    "introHTML": "<p>Brindamos asesoría integral en materia de INFONAVIT para empresas, trabajadores y sindicatos, con el objetivo de maximizar beneficios, prevenir riesgos y garantizar un cumplimiento claro y eficiente.</p><p>Apoyamos a empleadores en la regularización de aportaciones, gestión de créditos, celebración de convenios y atención de requerimientos.</p><p>Acompañamos a trabajadores en la obtención, corrección o cancelación de créditos. Y asesoramos a organizaciones sindicales para ofrecer orientación técnica confiable a sus agremiados.</p><p>Nuestro enfoque combina diagnóstico, estrategia y ejecución, adaptándonos a cada perfil para generar soluciones reales en un sistema muchas veces complejo.</p>",
+    "tabs": [],
+    "cards": [],
+    "extraTitle": "",
+    "heroImage": {
+      "src": "/assets/original/infonavit-img-head.jpg",
+      "source": "https://estenio.com.mx/wp-content/uploads/2025/07/infonavit-img-head.jpg",
+      "alt": ""
+    },
+    "historyImages": [],
+    "values": [],
+    "team": [],
+    "closing": "",
+    "stepTitle": "¿Cómo funciona el servicio?",
+    "stepIntro": "<p>Cada caso es único, por eso trabajamos con una metodología clara, estructurada y orientada a resultados.</p>",
+    "steps": [
+      {
+        "number": "1.",
+        "title": "Diagnóstico personalizado",
+        "html": "<p>Empezamos entendiendo a fondo tu situación.<br />Ya sea que enfrentes un crédito desconocido, quieras obtener un financiamiento o tengas un problema con tu historial INFONAVIT o IMSS, lo primero es saber con qué estamos tratando. Aplicamos un diagnóstico técnico para revisar tu caso, validar documentos, revisar historiales y detectar cualquier bloqueo, adeudo, error o posibilidad de mejora.</p>"
+      },
+      {
+        "number": "2.",
+        "title": "Definimos la mejor vía para seguir adelante",
+        "html": "<p>Con base en el diagnóstico, determinamos la ruta que mejor se ajusta a tu situación.<br />Puede ser:</p><ul><li>Resolución o aclaración de adeudos.</li><li>Recuperación de derechos.</li><li>Tramitación de nuevo crédito.</li><li>Regularización o defensa legal.</li></ul>"
+      },
+      {
+        "number": "3.",
+        "title": "Te presentamos una propuesta",
+        "html": "<p>Una vez clara la vía, te hacemos llegar una propuesta detallada con los servicios que tu caso requiere, tiempos aproximados y costos.</p><p>Aquí tú decides si deseas avanzar con nosotros. Nada se hace sin tu consentimiento y total claridad.</p>"
+      },
+      {
+        "number": "4.",
+        "title": "Estudio o acción directa",
+        "html": "<p>Con la propuesta aceptada, hay dos caminos posibles:</p><ul><li>El caso requiere análisis técnico a profundidad.</li><li>Si se trata de trámites, regularizaciones o asesorías más<br />directas, ejecutamos el plan sin necesidad de estudio.</li></ul><p>Es como ir con un médico: todos necesitan buen diagnóstico y<br />tratamiento adecuado.</p>"
+      },
+      {
+        "number": "5.",
+        "title": "Seguimiento completo hasta la resolución",
+        "html": "<p>No te dejamos solo.</p><p>Acompañamos todo el proceso: trámites, gestiones, convenios, aclaraciones, recursos legales, todo lo que sea necesario hasta cerrar el caso.</p><p>Nuestro equipo se mantiene en contacto contigo en cada etapa.</p>"
+      }
+    ],
+    "webinar": {
+      "title": "Atiende a nuestro webinar y obtén un descuento en tu estudio",
+      "href": "https://linktr.ee/ESTENIOMX",
+      "image": {
+        "src": "/assets/original/logo-estenio-blanco-r9b4p5kt2y3m52plfaral200tktm727o4ro1yr22rs.png",
+        "source": "https://estenio.com.mx/wp-content/uploads/elementor/thumbs/logo-estenio-blanco-r9b4p5kt2y3m52plfaral200tktm727o4ro1yr22rs.png",
+        "alt": "Estenio corporativo"
+      }
+    },
+    "servicesHeading": "Servicios disponibles tras el diagnóstico y/o estudio",
+    "servicesImage": {
+      "src": "/assets/original/auditoria1-1024x683.jpg",
+      "source": "https://estenio.com.mx/wp-content/uploads/2025/07/auditoria1-1024x683.jpg",
+      "alt": ""
+    },
+    "services": [
+      {
+        "title": "Créditos y soluciones habitacionales",
+        "html": "<ul><li>Compra de vivienda nueva o usada.</li><li>Compra de terreno para construcción.</li><li>Asesoría en compra de inmueble.</li><li>Búsqueda de inmuebles.</li><li>Remodelación y mejora de vivienda.</li><li>Asesoría en inscripción de crédito INFONAVIT.</li><li>Actualización o creación de cuenta INFONAVIT.</li><li>Pago de pasivos hipotecarios.</li><li>Servicios de valuación y escrituración.</li></ul>"
+      },
+      {
+        "title": "Regularización y resolución de problemas",
+        "html": "<ul><li>Resolución de créditos no reconocidos</li><li>Recuperación de cuentas congeladas</li><li>Reestructuración de pagos</li><li>Corrección de datos en NSS, RFC o CURP</li><li>Gestión de prórrogas y seguros por desempleo</li><li>Negociación de convenios de pago ante el INFONAVIT o IMSS</li><li>Condonaciones y descuentos por liquidación anticipada</li><li>Impugnación de ajustes indebidos en cuotas obrero-patronales</li><li>Recuperación de semanas cotizadas no reconocidas</li><li>Apoyo en trámites ante órganos internos de resolución de controversias del<br />INFONAVIT</li></ul>"
+      },
+      {
+        "title": "Defensa y representación legal",
+        "html": "<ul><li>Litigio en materia de Seguridad Social (IMSS / INFONAVIT)</li><li>Defensa contra multas por omisión en inscripción de trabajadores</li><li>Impugnación de créditos determinados en auditoría</li><li>Recursos legales contra negativas de devolución o aclaración</li><li>Defensa ante ejecución forzosa, embargos o congelamiento de cuentas</li></ul>"
+      },
+      {
+        "title": "Servicios de cumplimiento patronal y formación",
+        "html": "<ul><li>Formación a representantes sindicales en temas de Seguridad Social y crédito</li><li>Curso de preparación para certificaciónEC0903 (Promoción especializada INFONAVIT)</li><li>Asesoría directa a líderes sindicales y acompañamiento en trámites</li></ul>"
+      }
+    ],
+    "features": [],
+    "testimonials": [],
+    "faq": [],
+    "contactExtra": "",
+    "introImage": {
+      "src": "/assets/original/infonavit-img-01-1.jpg",
+      "source": "https://estenio.com.mx/wp-content/uploads/2025/07/infonavit-img-01-1.jpg",
+      "alt": ""
+    }
+  },
+  {
+    "path": "gestor-de-pensiones",
+    "title": "Pensión - Estenio Corporativo",
+    "meta": [
+      {
+        "name": "viewport",
+        "content": "width=device-width, initial-scale=1"
+      },
+      {
+        "name": "robots",
+        "content": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+      },
+      {
+        "name": "description",
+        "content": "Gestor de pensiones. Maximiza tu pensión IMSS y recupera fondos de AFORE. Asegura un retiro más seguro, rentable y libre de obstáculos burocráticos."
+      },
+      {
+        "rel": "canonical",
+        "href": "https://estenio.com.mx/gestor-de-pensiones/"
+      },
+      {
+        "property": "og:locale",
+        "content": "es_ES"
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:title",
+        "content": "Pensión - Estenio Corporativo"
+      },
+      {
+        "property": "og:description",
+        "content": "Gestor de pensiones. Maximiza tu pensión IMSS y recupera fondos de AFORE. Asegura un retiro más seguro, rentable y libre de obstáculos burocráticos."
+      },
+      {
+        "property": "og:url",
+        "content": "https://estenio.com.mx/gestor-de-pensiones/"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Estenio Corporativo"
+      },
+      {
+        "property": "article:publisher",
+        "content": "https://www.facebook.com/estenioMX/"
+      },
+      {
+        "property": "article:modified_time",
+        "content": "2026-02-26T18:42:17+00:00"
+      },
+      {
+        "property": "og:image",
+        "content": "https://estenio.com.mx/wp-content/uploads/elementor/thumbs/logo-estenio-blanco-r9b4p5kt2y3m52plfaral200tktm727o4ro1yr22rs.png"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:label1",
+        "content": "Tiempo de lectura"
+      },
+      {
+        "name": "twitter:data1",
+        "content": "10 minutos"
+      },
+      {
+        "name": "generator",
+        "content": "WordPress 7.1.2"
+      },
+      {
+        "name": "generator",
+        "content": "Site Kit by Google 1.176.0"
+      },
+      {
+        "name": "generator",
+        "content": "Elementor 4.3.2; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap"
+      },
+      {
+        "name": "msapplication-TileImage",
+        "content": "https://estenio.com.mx/wp-content/uploads/2025/04/icono-estenio.png"
+      }
+    ],
+    "heading": "PENSIÓN",
+    "leadTitle": "PENSIÓN",
+    "leadSubtitle": "",
+    "introHTML": "Asesoramos a empresas, trabajadores y ciudadanos en el análisis y optimización de pensiones (Ley 73), así como en la recuperación de fondos AFORE, con enfoque técnico y acompañamiento en todo el proceso.<br /><br />Realizamos estudios personalizados para identificar el mejor escenario de retiro y maximizar el monto de pensión. <br /><br />También ayudamos a mexicanos y extranjeros a localizar y recuperar sus recursos acumulados, incluso si ya no residen en el país o han dejado de cotizar.",
+    "tabs": [
+      {
+        "label": "Servicio de Pensiones",
+        "id": "tab_incio",
+        "title": "PENSIÓN",
+        "html": "Asesoramos a empresas, trabajadores y ciudadanos en el análisis y optimización de pensiones (Ley 73), así como en la recuperación de fondos AFORE, con enfoque técnico y acompañamiento en todo el proceso.<br /><br />Realizamos estudios personalizados para identificar el mejor escenario de retiro y maximizar el monto de pensión. <br /><br />También ayudamos a mexicanos y extranjeros a localizar y recuperar sus recursos acumulados, incluso si ya no residen en el país o han dejado de cotizar.",
+        "image": null
+      },
+      {
+        "label": "Pensiones Empresariales",
+        "id": "pensionesempresariales",
+        "title": "SERVICIO EMPRESARIAL DE PENSIONES",
+        "html": "Ayudamos a tus colaboradores a alcanzar su mejor pensión: un retiro claro, sólido y optimizado.<br /><br />\nMediante un estudio profesional y personalizado, analizamos la situación de cada trabajador para que comprenda su escenario actual, conozca todas sus\nopciones y tome decisiones informadas que le permitan maximizar el monto de su pensión.<br /><br />\nPorque el retiro no debe vivirse con incertidumbre, sino\ncomo una etapa planificada y financieramente segura.",
+        "image": null
+      },
+      {
+        "label": "Servicio Personalizado",
+        "id": "personalizado",
+        "title": "SERVICIO PERSONALIZADO DE ESTUDIO Y MAXIMIZACIÓN DE PENSIÓN",
+        "html": "Logra la pensión que mereces: un retiro claro, sólido y optimizado.<br />\nNuestro estudio personalizado examina tu historial laboral, tus semanas cotizadas, el desempeño de tu AFORE, tu SINDO y demás, para ofrecerte un diagnóstico\npreciso de tu situación actual y mostrarte todas las alternativas disponibles. Así, podrás tomar decisiones informadas que maximicen el monto de tu pensión y te\ngaranticen un retiro verdaderamente seguro.<br /><br />\nNo solo te retires, retírate mejor. Con la Mejor Pensión.",
+        "image": null
+      }
+    ],
+    "cards": [],
+    "extraTitle": "",
+    "heroImage": {
+      "src": "/assets/original/pension-img-head-04.jpg",
+      "source": "https://estenio.com.mx/wp-content/uploads/2025/07/pension-img-head-04.jpg",
+      "alt": ""
+    },
+    "historyImages": [],
+    "values": [],
+    "team": [],
+    "closing": "",
+    "stepTitle": "",
+    "stepIntro": "",
+    "steps": [],
+    "webinar": {
+      "title": "Atiende a nuestro webinar y obtén un descuento en tu estudio",
+      "href": "https://linktr.ee/ESTENIOMX",
+      "image": {
+        "src": "/assets/original/logo-estenio-blanco-r9b4p5kt2y3m52plfaral200tktm727o4ro1yr22rs.png",
+        "source": "https://estenio.com.mx/wp-content/uploads/elementor/thumbs/logo-estenio-blanco-r9b4p5kt2y3m52plfaral200tktm727o4ro1yr22rs.png",
+        "alt": "Estenio corporativo"
+      }
+    },
+    "servicesHeading": "",
+    "servicesImage": null,
+    "services": [],
+    "features": [
+      {
+        "title": "Estudio de pensión personalizado",
+        "html": "<p>Evaluamos la situación individual del colaborador para identificar los mejores escenarios posibles y brindar un plan claro para maximizar el monto de su pensión, considerando edad, semanas cotizadas, régimen, SINDO, AFORE y otros factores clave.</p>",
+        "image": {
+          "src": "/assets/original/pension-img-02.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/07/pension-img-02.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Acompañamiento durante el proceso de retiro",
+        "html": "<p>Acompañamos paso a paso. Desde la estrategia hasta el trámite final, acompañamos a tu colaborador para asegurar un retiro más seguro, rentable y libre de obstáculos burocráticos.</p>",
+        "image": {
+          "src": "/assets/original/pension-img-03.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/07/pension-img-03.jpg",
+          "alt": ""
+        }
+      },
+      {
+        "title": "Recuperación de fondos AFORE (mexicanos yextranjeros)",
+        "html": "<p>Apoyamos a personas mexicanas y extranjeras a localizar y recuperar sus fondos AFORE, incluso en casos donde ya no residen en México.</p><p>Especialistas en resolver situaciones complejas de cotización internacional.</p>",
+        "image": {
+          "src": "/assets/original/pension-img-04.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/07/pension-img-04.jpg",
+          "alt": ""
+        }
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "“Esta asesoría es una inversión, no es un gasto... vénalo siempre como una inversión porque en el tiempo lo van a recuperar con creces”",
+        "name": "Gonzalo Guerrero",
+        "role": "Director de recursos humanos en PepsiCo",
+        "image": {
+          "src": "/assets/original/pension-img-gonzalo-guerrero.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/07/pension-img-gonzalo-guerrero.jpg",
+          "alt": "Gonzalo Guerrero"
+        }
+      },
+      {
+        "quote": "\"En todo momento me sentí acompañado. Desde el inicio me explicaron con claridad cómo funcionaba el proceso... la cantidad que recibí fue exactamente la que me habían dicho. Estoy muy agradecido con el despacho por la atención y la claridad con la que me guiaron en todo el camino.\"",
+        "name": "Ernesto Miguel Scharer",
+        "role": "Proveedor de materiales para construcción",
+        "image": {
+          "src": "/assets/original/user-rounded-a24ibciimgqx0ht6xxnnj9.webp",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/08/user-rounded-a24ibciimgqx0ht6xxnnj9.webp",
+          "alt": "Ernesto Miguel Scharer"
+        }
+      },
+      {
+        "quote": "\"Antes no tenía ni idea de cómo funcionaba mi pensión y me angustiaba pensar en jubilarme con poco ingreso. Con el estudio personalizado de Estenio, entendí exactamente mi situación, descubrí semanas olvidadas y supe cómo elegir el mejor momento para pensionarme. Ahora tengo un plan claro ¡Me quitaron un peso enorme de encima!\"",
+        "name": "Leopoldo Carlos Ramírez Denegri",
+        "role": "Ex CFO Bayer de México",
+        "image": {
+          "src": "/assets/original/pension-img-leopoldo-ramirez.jpg",
+          "source": "https://estenio.com.mx/wp-content/uploads/2025/07/pension-img-leopoldo-ramirez.jpg",
+          "alt": "Leopoldo Carlos Ramírez Denegri"
+        }
+      }
+    ],
+    "faq": [
+      {
+        "title": "¿Qué es la Ley 73 del Seguro Social?",
+        "html": "La Ley 73 regula las pensiones de quienes empezaron a cotizar en el IMSS antes de\njulio de 1997. Si calificas bajo esta ley, tu pensión se calcula con base en tus últimos\nsalarios y años cotizados, lo que puede darte una pensión mucho más alta.\nNosotros te ayudamos a entender tu situación y a diseñar una estrategia para\nmaximizar tu pensión y asegurar los mayores beneficios posibles."
+      },
+      {
+        "title": "¿Cómo empiezo el proceso?",
+        "html": "<p>El primer paso es agendar una consulta.<br />Con base en tu situación, hacemos un estudio de pensión para entender tus opciones y ver cómo puedes aumentar el<br />monto. A partir de ahí, diseñamos un plan personalizado y te acompañamos en cada paso del camino.</p>"
+      },
+      {
+        "title": "¿Qué es un estudio de pensión?",
+        "html": "Es un análisis detallado de tu historial laboral y situación actual. Nos permite\nidentificar cómo puedes obtener la pensión más alta posible bajo la Ley 73, qué\nestrategias legales aplicar y cómo planear tu retiro con tiempo."
+      },
+      {
+        "title": "¿Qué documentos necesito para hacer el estudio de pensión?",
+        "html": "<p>Necesitamos:</p><ul><li>Tu INE</li><li>Número de Seguridad Social</li><li>Comprobantes de salario recientes</li><li>Estados de cuenta de tu AFORE</li><li>Historial de semanas cotizadas (IMSS)</li></ul><p> </p><p>Con esta información podemos hacer un diagnóstico claro y darte la mejor estrategia disponible.</p>"
+      },
+      {
+        "title": "¿Qué pasa si tengo lagunas o inconsistencias en mis semanas cotizadas?",
+        "html": "<p>Revisamos tu historial a fondo. Incluso si hay errores, periodos sin cotizar o datos faltantes, existen estrategias para recuperar semanas, corregir información o explorar alternativas legales.</p>"
+      },
+      {
+        "title": "¿Cuándo es el mejor momento para hacer mi estudio de pensión?",
+        "html": "<p>Hoy es el mejor momento. Aunque falten años para tu retiro, entre más pronto tengas claridad, mejores decisiones podrás tomar.</p><p>Una buena planeación puede marcar una gran diferencia.</p>"
+      },
+      {
+        "title": "¿Puedo hacer el proceso si vivo en el extranjero?",
+        "html": "<p>Sí. Hemos ayudado a muchas personas que viven fuera de México a organizar y maximizar su pensión de forma 100% en línea.</p>"
+      },
+      {
+        "title": "¿Cuánto tiempo tarda el proceso?",
+        "html": "<p>Depende del caso, pero generalmente toma de 3 a 6 meses. El tiempo puede variar según la complejidad y la respuesta del IMSS. Al final, tendrás claridad, tranquilidad y posiblemente una pensión mensual más alta.</p>"
+      },
+      {
+        "title": "¿Cuántas sesiones incluye la asesoría y cuánto duran?",
+        "html": "<p>Normalmente trabajamos en 2 a 4 sesiones de entre 30 y 60 minutos. Si avanzamos más rápido, es posible que no se necesiten todas.</p>"
+      },
+      {
+        "title": "¿La asesoría es presencial u online?",
+        "html": "<p>El proceso puede ser completamente en línea. Si lo prefieres, también puedes asistir de forma presencial a nuestras oficinas en:</p><p>Dr. Roberto Gayol 1219, Col. del Valle Centro, Benito Juárez, 03100 Ciudad de México, CDMX</p>"
+      },
+      {
+        "title": "Si ya estoy cerca de mi retiro, ¿todavía puedo maximizar mi pensión?",
+        "html": "<p>Sí. Incluso si estás a solo unos meses de pensionarte, podemos encontrar estrategias para mejorar el monto de tu pensión. Cada día cuenta, así que no lo dejes pasar.</p>"
+      },
+      {
+        "title": "Si ya estoy pensionado, ¿aún puedo obtener beneficios?",
+        "html": "<p>Sí. Podemos revisar tu caso para ver si hay formas legales de aumentar los beneficios que recibes tú o tus beneficiarios (padres, esposa, hijos, etc.).</p>"
+      },
+      {
+        "title": "Si no tengo suficiente dinero para maximizar mi pensión, ¿me pueden ayudar?",
+        "html": "<p>Claro. Contamos con posibilidades de financiamiento diseñadas especialmente para personas bajo la Ley 73. Esto te permite cubrir los montos necesarios para mejorar tu pensión sin afectar tu economía actual.</p>"
+      }
+    ],
+    "contactExtra": "Te ayudamos a obtener la MEJOR PENSIÓN posible para que puedas retirarte con total tranquilidad."
+  }
+]

@@ -1,0 +1,46 @@
+<section class="home-hero" id="inicio" aria-labelledby="hero-title">
+  <img class="hero-poster" src="/assets/original/hero-poster.jpg" alt="" width="1920" height="1080" fetchpriority="high" />
+  <video class="hero-video" autoplay muted loop playsinline preload="none" poster="/assets/original/hero-poster.jpg" aria-hidden="true" tabindex="-1" data-source="/assets/original/Diseno-sin-titulo-2.mp4"></video>
+  <div class="hero-shade" aria-hidden="true"></div>
+  <div class="wrap home-hero-inner">
+    <h1 id="hero-title">El despacho líder en México, especializado en materia de Seguridad Social.</h1>
+    <p class="hero-copy">Fundado hace más de 53 años, Corporativo Estenio se ha consolidado como despacho referente en Seguridad Social, ofreciendo a empresas nacionales e internacionales un servicio de excelencia.</p>
+  </div>
+  <button type="button" class="video-control" aria-label="Pausar video" aria-pressed="false" hidden>
+    <span class="pause-icon" aria-hidden="true">Ⅱ</span>
+    <span class="play-icon" aria-hidden="true">▶</span>
+  </button>
+</section>
+
+<script>
+  const video = document.querySelector<HTMLVideoElement>('.hero-video');
+  const control = document.querySelector<HTMLButtonElement>('.video-control');
+  const preference = window.matchMedia('(prefers-reduced-motion: reduce)');
+  const syncControl = () => {
+    if (!video || !control) return;
+    control.setAttribute('aria-pressed', String(video.paused));
+    control.setAttribute('aria-label', video.paused ? 'Reproducir video' : 'Pausar video');
+  };
+  const syncPreference = () => {
+    if (!video || !control) return;
+    control.hidden = preference.matches;
+    if (preference.matches) {
+      video.pause();
+      video.removeAttribute('src');
+      video.load();
+    } else {
+      video.muted = true;
+      video.src = video.dataset.source ?? '';
+      void video.play().catch(syncControl);
+    }
+  };
+  video?.addEventListener('play', syncControl);
+  video?.addEventListener('pause', syncControl);
+  control?.addEventListener('click', () => {
+    if (!video) return;
+    if (video.paused) void video.play().catch(syncControl);
+    else video.pause();
+  });
+  preference.addEventListener('change', syncPreference);
+  syncPreference();
+</script>
