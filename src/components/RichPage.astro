@@ -8,6 +8,14 @@ interface Props {
   page: any;
 }
 const { page } = Astro.props;
+const featureImages: Record<string, { src: string; alt: string }> = {
+  nosotros: { src: '/assets/original/nosotros-img-01.jpg', alt: 'Imagen de la historia de Estenio' },
+  auditoria: { src: '/assets/original/img-auditoria-contribuciones-locales.jpg', alt: 'Imagen original de los servicios de auditoría' },
+  legal: { src: '/assets/original/img-legal-litigio.jpg', alt: 'Imagen original de los servicios legales' },
+  'asesoria-infonavit': { src: '/assets/original/infonavit-img-01.jpg', alt: 'Imagen original de asesoría INFONAVIT' },
+  'gestor-de-pensiones': { src: '/assets/original/pension-img-gonzalo-guerrero.jpg', alt: 'Imagen original de los testimonios de pensión' },
+};
+const featureImage = featureImages[page.path];
 ---
 
 <SiteHeader />
@@ -29,7 +37,7 @@ const { page } = Astro.props;
       </div>
     </div>
 
-    {page.path === 'nosotros' && <img class="feature-image" src="/assets/original/nosotros-img-01.jpg" alt="Instalaciones de Estenio" width="600" height="899" loading="lazy" />}
+    {featureImage && <img class="feature-image" src={featureImage.src} alt={featureImage.alt} width="600" height="899" loading="lazy" />}
 
     <div class="content-sections">
       {page.sections.map((section: ContentSection, index: number) => (
