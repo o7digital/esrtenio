@@ -1,0 +1,55 @@
+---
+import type { ContentSection } from '../data/siteContent';
+import PreviewContact from './PreviewContact.astro';
+import SiteFooter from './SiteFooter.astro';
+import SiteHeader from './SiteHeader.astro';
+
+interface Props {
+  page: any;
+}
+const { page } = Astro.props;
+---
+
+<SiteHeader />
+<main>
+  <section class="page-hero">
+    <div class="wrap">
+      <p class="eyebrow">CORPORATIVO ESTRATÉGICO ESTENIO</p>
+      <h1>{page.heading}</h1>
+    </div>
+  </section>
+  <article class="content-page wrap">
+    <div class="content-lead">
+      <div>
+        <p class="eyebrow">{page.leadTitle}</p>
+        {page.leadSubtitle && <p class="lead-subtitle">{page.leadSubtitle}</p>}
+      </div>
+      <div>
+        {page.leadParagraphs.map((paragraph: string) => <p>{paragraph}</p>)}
+      </div>
+    </div>
+
+    {page.path === 'nosotros' && <img class="feature-image" src="/assets/original/nosotros-img-01.jpg" alt="Instalaciones de Estenio" width="600" height="899" loading="lazy" />}
+
+    <div class="content-sections">
+      {page.sections.map((section: ContentSection, index: number) => (
+        <section class="content-section" id={`section-${index + 1}`}>
+          <h2>{section.title}</h2>
+          {section.paragraphs?.map((paragraph) => <p>{paragraph}</p>)}
+          {section.items && <ul>{section.items.map((item) => <li>{item}</li>)}</ul>}
+        </section>
+      ))}
+    </div>
+
+    {page.team && <section class="content-section team-section"><h2>NUESTRO EQUIPO</h2><div class="team-grid">{page.team.map((member: {name: string; role: string}) => <div class="team-card"><strong>{member.name}</strong><span>{member.role}</span></div>)}</div></section>}
+    {page.closing && <p class="closing-line">{page.closing}</p>}
+
+    {page.extraSections && <section class="content-section"><h2>{page.extraTitle}</h2><div class="service-list">{page.extraSections.map(([title, text]: [string, string]) => <details><summary>{title}</summary><p>{text}</p></details>)}</div></section>}
+
+    {page.testimonials && <section class="content-section"><h2>TESTIMONIOS</h2><div class="testimonial-grid">{page.testimonials.map(([quote, name, role]: [string, string, string]) => <blockquote><p>{quote}</p><footer><strong>{name}</strong><span>{role}</span></footer></blockquote>)}</div></section>}
+    {page.faq && <section class="content-section"><h2>PREGUNTAS FRECUENTES</h2><div class="faq-list">{page.faq.map(([question, answer]: [string, string]) => <details><summary>{question}</summary><p>{answer}</p></details>)}</div></section>}
+    {page.external && <p class="external-link"><a class="button" href={page.external.href} rel="noreferrer">{page.external.label}</a></p>}
+  </article>
+  <PreviewContact />
+</main>
+<SiteFooter />

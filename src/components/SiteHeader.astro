@@ -1,0 +1,48 @@
+---
+import { navigation } from '../data/siteContent';
+const currentPath = Astro.url.pathname;
+---
+
+<header class="site-header">
+  <div class="header-inner wrap">
+    <a class="logo" href="/" aria-label="Estenio Corporativo">
+      <img src="/assets/original/logo-white.png" alt="Estenio" width="200" height="85" />
+    </a>
+    <button class="menu-toggle" type="button" aria-label="Abrir menú" aria-controls="site-nav" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+    <nav id="site-nav" class="site-nav" aria-label="Menú principal">
+      {navigation.map((item) => (
+        item.children ? (
+          <details class="nav-group" open={item.children.some((child) => currentPath === child.href)}>
+            <summary>{item.label}</summary>
+            <div class="nav-submenu">
+              {item.children.map((child) => <a href={child.href} class:list={{ active: currentPath === child.href }}>{child.label}</a>)}
+            </div>
+          </details>
+        ) : (
+          <a href={item.href} class:list={{ active: currentPath === item.href }}>{item.label}</a>
+        )
+      ))}
+    </nav>
+  </div>
+</header>
+
+<script>
+  const toggle = document.querySelector<HTMLButtonElement>('.menu-toggle');
+  const nav = document.querySelector<HTMLElement>('#site-nav');
+  const close = () => {
+    nav?.classList.remove('is-open');
+    toggle?.setAttribute('aria-expanded', 'false');
+    toggle?.setAttribute('aria-label', 'Abrir menú');
+  };
+  toggle?.addEventListener('click', () => {
+    const isOpen = nav?.classList.toggle('is-open') ?? false;
+    toggle.setAttribute('aria-expanded', String(isOpen));
+    toggle.setAttribute('aria-label', isOpen ? 'Cerrar menú' : 'Abrir menú');
+  });
+  nav?.querySelectorAll('a').forEach((link) => link.addEventListener('click', close));
+  document.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape') { close(); toggle?.focus(); }
+  });
+</script>
